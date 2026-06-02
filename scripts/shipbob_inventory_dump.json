@@ -1,0 +1,1502 @@
+[
+  {
+    "inventory_id": 15464369,
+    "name": "Particle Anti-Gray Shampoo",
+    "sku": "479559536",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": false,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 15464368,
+    "name": "מִנוּי חבילה מתקדמת - subscription 1: חודש 3",
+    "sku": "479685140",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": false,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 15466725,
+    "name": "Set De Crecimiento De Pelo Subscription - subscription 1: delivery every 2 months",
+    "sku": "480068468",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": false,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 14648937,
+    "name": "Scalp Massager",
+    "sku": "9162027",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": true,
+      "is_locked": false,
+      "unit": "in",
+      "length": 6.31,
+      "width": 4.34,
+      "height": 3.36
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 4.09
+    },
+    "variant": {
+      "hazmat": {
+        "validated": true,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": true,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 15425983,
+    "name": "Ab Firming Cream",
+    "sku": "860010338421",
+    "barcode": "860010338421",
+    "is_lot": true,
+    "is_case": false,
+    "dimensions": {
+      "validated": true,
+      "is_locked": false,
+      "unit": "in",
+      "length": 6.0,
+      "width": 2.87,
+      "height": 2.85
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 5.84
+    },
+    "variant": {
+      "hazmat": {
+        "validated": true,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": true,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 15618688,
+    "name": "Set De Crecimiento De Pelo Subscription - subscription 1: delivery every 3 months",
+    "sku": "490010997",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": false,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 11091320,
+    "name": "Particle Face Cream",
+    "sku": "751889384926",
+    "barcode": null,
+    "is_lot": true,
+    "is_case": false,
+    "dimensions": {
+      "validated": true,
+      "is_locked": false,
+      "unit": "in",
+      "length": 6.1,
+      "width": 2.56,
+      "height": 2.56
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 4.6
+    },
+    "variant": {
+      "hazmat": {
+        "validated": true,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": true,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 11093009,
+    "name": "Custom box",
+    "sku": "123qweqwe",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": false,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 11093027,
+    "name": "bro",
+    "sku": "",
+    "barcode": null,
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": false,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 11121560,
+    "name": "Particle Shampoo",
+    "sku": "636665869661",
+    "barcode": null,
+    "is_lot": true,
+    "is_case": false,
+    "dimensions": {
+      "validated": true,
+      "is_locked": false,
+      "unit": "in",
+      "length": 6.81,
+      "width": 3.15,
+      "height": 1.97
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 17.4
+    },
+    "variant": {
+      "hazmat": {
+        "validated": true,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": true,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 11121561,
+    "name": "Particle Body Wash",
+    "sku": "636665869678",
+    "barcode": null,
+    "is_lot": true,
+    "is_case": false,
+    "dimensions": {
+      "validated": true,
+      "is_locked": false,
+      "unit": "in",
+      "length": 6.81,
+      "width": 3.15,
+      "height": 1.97
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 16.6
+    },
+    "variant": {
+      "hazmat": {
+        "validated": true,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": true,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 11121552,
+    "name": "Particle Face Mask",
+    "sku": "636665869654",
+    "barcode": null,
+    "is_lot": true,
+    "is_case": false,
+    "dimensions": {
+      "validated": true,
+      "is_locked": false,
+      "unit": "in",
+      "length": 3.66,
+      "width": 2.8,
+      "height": 2.8
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 11.1
+    },
+    "variant": {
+      "hazmat": {
+        "validated": true,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": true,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 11121613,
+    "name": "Power Shower Set",
+    "sku": "9162021",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": true,
+      "is_bundle": true
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 13906519,
+    "name": "Juego Para La Ducha Subscription - subscription 1: 3 Meses",
+    "sku": "346468768",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": false,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 11623234,
+    "name": "Particle Skin Vitamin Gummy",
+    "sku": "860005339747",
+    "barcode": "860005339747",
+    "is_lot": true,
+    "is_case": false,
+    "dimensions": {
+      "validated": true,
+      "is_locked": false,
+      "unit": "in",
+      "length": 2.27,
+      "width": 2.25,
+      "height": 4.45
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 6.4
+    },
+    "variant": {
+      "hazmat": {
+        "validated": true,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": true,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 11121567,
+    "name": "Particle Beard Oil",
+    "sku": "860005339723",
+    "barcode": "860005339723",
+    "is_lot": true,
+    "is_case": false,
+    "dimensions": {
+      "validated": true,
+      "is_locked": false,
+      "unit": "in",
+      "length": 4.13,
+      "width": 2.48,
+      "height": 2.48
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 3.5
+    },
+    "variant": {
+      "hazmat": {
+        "validated": true,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": true,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 14854208,
+    "name": "Gift bundle",
+    "sku": "9162029",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": true,
+      "is_bundle": true
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 11976117,
+    "name": "Particle Hand Cream",
+    "sku": "860005339778-1",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": false,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 11121554,
+    "name": "Particle Face Wash",
+    "sku": "636665869647",
+    "barcode": "636665869647",
+    "is_lot": true,
+    "is_case": false,
+    "dimensions": {
+      "validated": true,
+      "is_locked": false,
+      "unit": "in",
+      "length": 6.5,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 8.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": true,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": true,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 11573156,
+    "name": "Particle Brochure",
+    "sku": "6003.0002",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": true,
+      "is_locked": false,
+      "unit": "in",
+      "length": 5.97,
+      "width": 5.85,
+      "height": 0.4
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 1.44
+    },
+    "variant": {
+      "hazmat": {
+        "validated": true,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": true,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 11623231,
+    "name": "Particle Neck Cream",
+    "sku": "860005339778",
+    "barcode": "860005339778",
+    "is_lot": true,
+    "is_case": false,
+    "dimensions": {
+      "validated": true,
+      "is_locked": false,
+      "unit": "in",
+      "length": 6.1,
+      "width": 2.62,
+      "height": 2.62
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 3.8
+    },
+    "variant": {
+      "hazmat": {
+        "validated": true,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": true,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 11671505,
+    "name": "Total Discount",
+    "sku": "total-discount",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": true,
+      "is_active": true,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 11128469,
+    "name": "Particle  Advanced Bundle",
+    "sku": "223456",
+    "barcode": null,
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": true,
+      "is_bundle": true
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 14245777,
+    "name": "Starter Bundle",
+    "sku": "9162025",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": true,
+      "is_bundle": true
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 11127995,
+    "name": "Particle Hair Growth Set",
+    "sku": "8162021",
+    "barcode": null,
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": true,
+      "is_bundle": true
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 11936472,
+    "name": "Particle Body Firming Cream",
+    "sku": "111111111113",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": false,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 11623233,
+    "name": "Particle Hair Vitamin Gummy",
+    "sku": "860005339761",
+    "barcode": "860005339761",
+    "is_lot": true,
+    "is_case": false,
+    "dimensions": {
+      "validated": true,
+      "is_locked": false,
+      "unit": "in",
+      "length": 2.27,
+      "width": 2.27,
+      "height": 4.45
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 6.48
+    },
+    "variant": {
+      "hazmat": {
+        "validated": true,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": true,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 14245778,
+    "name": "Restoration Bundle",
+    "sku": "9162023",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": true,
+      "is_bundle": true
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 14853829,
+    "name": "Set De Crecimiento De Pelo Subscription - subscription 1: delivery every 2 months",
+    "sku": "430615781",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": false,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 11121566,
+    "name": "Particle Scar Gel",
+    "sku": "860005339716",
+    "barcode": "860005339716",
+    "is_lot": true,
+    "is_case": false,
+    "dimensions": {
+      "validated": true,
+      "is_locked": false,
+      "unit": "in",
+      "length": 3.86,
+      "width": 2.48,
+      "height": 2.48
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 2.5
+    },
+    "variant": {
+      "hazmat": {
+        "validated": true,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": true,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 14853830,
+    "name": "Particle Anti-Gray Shampoo",
+    "sku": "430268697",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": false,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 14770231,
+    "name": "Particle Face Cream",
+    "sku": "751889384926-11",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": false,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 14798861,
+    "name": "Particle Hair Growth Spray",
+    "sku": "425856351",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": false,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 14636992,
+    "name": "?????? ????? ?????? - subscription 1: ???? 3",
+    "sku": "407510971",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": false,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 13186169,
+    "name": "NECK CREAM AMAZON BAR CODE",
+    "sku": "B0BPTBVH2K",
+    "barcode": "B0BPTBVH2K",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": false,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 14879322,
+    "name": "?????? ????? ?????? - subscription 1: ???? 3",
+    "sku": "434213832",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": false,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 14870971,
+    "name": "Particle Anti-Gray Shampoo",
+    "sku": "432579317",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": false,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 14859420,
+    "name": "Particle Anti-Gray Shampoo",
+    "sku": "431576765",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": false,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 14848892,
+    "name": "Set De Crecimiento De Pelo Subscription - subscription 1: 3 meses",
+    "sku": "429564705",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": false,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 14843097,
+    "name": "Particle Anti-Gray Shampoo",
+    "sku": "gVNF*/Tu",
+    "barcode": null,
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": false,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 12521772,
+    "name": "Particle Gravite Cologne",
+    "sku": "860005339785",
+    "barcode": "860005339785",
+    "is_lot": true,
+    "is_case": false,
+    "dimensions": {
+      "validated": true,
+      "is_locked": false,
+      "unit": "in",
+      "length": 5.6,
+      "width": 5.0,
+      "height": 2.5
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 14.9
+    },
+    "variant": {
+      "hazmat": {
+        "validated": true,
+        "is_hazmat": true
+      },
+      "is_digital": false,
+      "is_active": true,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 12335143,
+    "name": "Hair Growth Bundle",
+    "sku": "816202112",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": true,
+      "is_bundle": true
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 11128377,
+    "name": "Particle Essential Bundle",
+    "sku": "123456",
+    "barcode": null,
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": true,
+      "is_bundle": true
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 11121569,
+    "name": "Particle Hair Revival Kit",
+    "sku": "860005339730",
+    "barcode": "860005339730",
+    "is_lot": true,
+    "is_case": false,
+    "dimensions": {
+      "validated": true,
+      "is_locked": false,
+      "unit": "in",
+      "length": 6.69,
+      "width": 5.91,
+      "height": 2.76
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 6.8
+    },
+    "variant": {
+      "hazmat": {
+        "validated": true,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": true,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 14883055,
+    "name": "Particle Anti-Gray Shampoo",
+    "sku": "435109562",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": false,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 14798862,
+    "name": "Particle Hair Growth Spray",
+    "sku": "425762325",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": false,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 12828103,
+    "name": "Set De Crecimiento De Pelo Subscription - subscription 1: delivery every 3 months",
+    "sku": "278339321",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": false,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 14237710,
+    "name": "?????? ????? ?????? - subscription 1: ???? 3",
+    "sku": "381473087",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": false,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 14992029,
+    "name": "Particle Hair Shampoo (Copy)",
+    "sku": "449638563",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": false,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  },
+  {
+    "inventory_id": 15323830,
+    "name": "Particle Anti-Gray Shampoo",
+    "sku": "469405781",
+    "barcode": "",
+    "is_lot": false,
+    "is_case": false,
+    "dimensions": {
+      "validated": false,
+      "is_locked": false,
+      "unit": "in",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "weight": {
+      "unit": "oz",
+      "value": 0.0
+    },
+    "variant": {
+      "hazmat": {
+        "validated": false,
+        "is_hazmat": false
+      },
+      "is_digital": false,
+      "is_active": false,
+      "is_bundle": false
+    },
+    "user_id": 288109
+  }
+]

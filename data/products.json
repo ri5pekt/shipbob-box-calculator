@@ -1,0 +1,734 @@
+[
+  {
+    "id": 7,
+    "title": "Particle Face Cream",
+    "sku": "751889384926",
+    "dimensions": {
+      "length": 6.1,
+      "width": 2.56,
+      "height": 2.56
+    },
+    "unit": "in",
+    "category": "jar",
+    "dimensions_source": "shipbob_api_validated",
+    "unit_volume_cu_in": 37.5,
+    "unit_weight_lbs": 0.2875,
+    "inventory_sku": "70000050",
+    "dim_type": "Case",
+    "dim_source": "Case",
+    "shipbob_inventory_id": 11091320,
+    "unit_weight_oz": 4.6,
+    "shipbob_inventory_name": "Particle Face Cream"
+  },
+  {
+    "id": 2299802,
+    "title": "Particle 43 Anti-Aging Shaving Gel",
+    "sku": "00860012469772",
+    "dimensions": {
+      "length": 7.2,
+      "width": 2.15,
+      "height": 2.13
+    },
+    "unit": "in",
+    "category": "tube",
+    "dimensions_source": "shipbob_api_validated",
+    "unit_volume_cu_in": 29.25,
+    "unit_weight_lbs": 0.51,
+    "inventory_sku": "70110700",
+    "dim_type": "Case",
+    "dim_source": "Case",
+    "shipbob_inventory_id": 20985723,
+    "shipbob_inventory_name": "Particle Shaving Gel",
+    "unit_weight_oz": 8.16
+  },
+  {
+    "id": 3175815,
+    "title": "Particle Instant Eye Firming Cream",
+    "sku": "00860012469796",
+    "dimensions": {
+      "length": 4.15,
+      "width": 2.5,
+      "height": 2.4
+    },
+    "unit": "in",
+    "category": "tube",
+    "dimensions_source": "shipbob_api_validated",
+    "shipbob_inventory_id": 22728205,
+    "shipbob_inventory_name": "Particle Instant Eye Firming Cream",
+    "unit_weight_oz": 2.67,
+    "unit_weight_lbs": 0.1669
+  },
+  {
+    "id": 3546870,
+    "title": "Particle Face Shield",
+    "sku": "860010338483",
+    "dimensions": {
+      "length": 6.3,
+      "width": 1.85,
+      "height": 1.35
+    },
+    "unit": "in",
+    "category": "bottle",
+    "dimensions_source": "shipbob_api_validated",
+    "shipbob_inventory_id": 18186501,
+    "shipbob_inventory_name": "Particle Invisible Sunscreen",
+    "unit_weight_oz": 4.0,
+    "unit_weight_lbs": 0.25
+  },
+  {
+    "id": 100362,
+    "title": "Particle Face Wash",
+    "sku": "636665869647",
+    "dimensions": {
+      "length": 6.5,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "unit": "in",
+    "category": "bottle",
+    "dimensions_source": "shipbob_api_validated",
+    "unit_volume_cu_in": 28.0,
+    "unit_weight_lbs": 0.5,
+    "inventory_sku": "70010150",
+    "dim_type": "Case",
+    "dim_source": "Case",
+    "shipbob_inventory_id": 11121554,
+    "unit_weight_oz": 8.0,
+    "shipbob_inventory_name": "Particle Face Wash"
+  },
+  {
+    "id": 100370,
+    "title": "Particle Face Mask",
+    "sku": "636665869654",
+    "dimensions": {
+      "length": 3.66,
+      "width": 2.8,
+      "height": 2.8
+    },
+    "unit": "in",
+    "category": "tube",
+    "dimensions_source": "shipbob_api_validated",
+    "unit_volume_cu_in": 28.6091,
+    "unit_weight_lbs": 0.6937,
+    "inventory_sku": null,
+    "dim_type": "Unit",
+    "dim_source": "Unit",
+    "shipbob_inventory_id": 11121552,
+    "unit_weight_oz": 11.1,
+    "shipbob_inventory_name": "Particle Face Mask"
+  },
+  {
+    "id": 3611263,
+    "title": "Particle Lip Balm",
+    "sku": "00860012469789",
+    "dimensions": {
+      "length": 3.05,
+      "width": 0.9,
+      "height": 0.85
+    },
+    "unit": "in",
+    "category": "stick",
+    "dimensions_source": "shipbob_api_validated",
+    "unit_volume_cu_in": 3.0,
+    "unit_weight_lbs": 0.0581,
+    "inventory_sku": null,
+    "dim_type": "Case",
+    "dim_source": "Case",
+    "shipbob_inventory_id": 22401575,
+    "shipbob_inventory_name": "Particle Lip Balm 7ml",
+    "unit_weight_oz": 0.93
+  },
+  {
+    "id": 1646173,
+    "title": "Particle Gravité",
+    "sku": "860005339785",
+    "dimensions": {
+      "length": 5.6,
+      "width": 5.0,
+      "height": 2.5
+    },
+    "unit": "in",
+    "category": "bottle",
+    "dimensions_source": "shipbob_api_validated",
+    "unit_volume_cu_in": 80.0,
+    "unit_weight_lbs": 0.9313,
+    "inventory_sku": null,
+    "dim_type": "Case",
+    "dim_source": "Case",
+    "shipbob_inventory_id": 12521772,
+    "unit_weight_oz": 14.9,
+    "shipbob_inventory_name": "Particle Gravite Cologne"
+  },
+  {
+    "id": 3276357,
+    "title": "Particle Varros",
+    "sku": "00860012469765",
+    "dimensions": {
+      "length": 5.85,
+      "width": 3.6,
+      "height": 2.15
+    },
+    "unit": "in",
+    "category": "bottle",
+    "dimensions_source": "shipbob_api_validated",
+    "unit_volume_cu_in": 54.8571,
+    "unit_weight_lbs": 0.94,
+    "inventory_sku": null,
+    "dim_type": "Case",
+    "dim_source": "Case",
+    "shipbob_inventory_id": 21383637,
+    "shipbob_inventory_name": "Varros Perfume - 100ml",
+    "unit_weight_oz": 15.04
+  },
+  {
+    "id": 3008280,
+    "title": "Particle Hand Cream",
+    "sku": "00860014497216",
+    "dimensions": {
+      "length": 6.2,
+      "width": 2.45,
+      "height": 2.43
+    },
+    "unit": "in",
+    "category": "tube",
+    "dimensions_source": "shipbob_api_validated",
+    "unit_volume_cu_in": 43.75,
+    "unit_weight_lbs": 0.3981,
+    "inventory_sku": null,
+    "dim_type": "Case",
+    "dim_source": "Case",
+    "shipbob_inventory_id": 21757502,
+    "shipbob_inventory_name": "Particle Dark Spot Hand Cream",
+    "unit_weight_oz": 6.37
+  },
+  {
+    "id": 2475444,
+    "title": "Particle Gravité Deodorant",
+    "sku": "860012469710",
+    "dimensions": {
+      "length": 6.3,
+      "width": 2.17,
+      "height": 2.15
+    },
+    "unit": "in",
+    "category": "stick",
+    "dimensions_source": "shipbob_api_validated",
+    "shipbob_inventory_id": 19339631,
+    "shipbob_inventory_name": "Particle Gravite Deodorant",
+    "unit_weight_oz": 6.16,
+    "unit_weight_lbs": 0.385
+  },
+  {
+    "id": 1450671,
+    "title": "Particle Ab Firming Cream",
+    "sku": "860010338421",
+    "dimensions": {
+      "length": 6.0,
+      "width": 2.87,
+      "height": 2.85
+    },
+    "unit": "in",
+    "category": "jar",
+    "dimensions_source": "shipbob_api_validated",
+    "unit_volume_cu_in": 43.4844,
+    "unit_weight_lbs": 0.365,
+    "inventory_sku": null,
+    "dim_type": "Unit",
+    "dim_source": "Unit",
+    "shipbob_inventory_id": 15425983,
+    "unit_weight_oz": 5.84,
+    "shipbob_inventory_name": "Ab Firming Cream"
+  },
+  {
+    "id": 1495139,
+    "title": "Particle Neck Cream",
+    "sku": "860005339778",
+    "dimensions": {
+      "length": 6.1,
+      "width": 2.62,
+      "height": 2.62
+    },
+    "unit": "in",
+    "category": "jar",
+    "dimensions_source": "shipbob_api_validated",
+    "unit_volume_cu_in": 29.25,
+    "unit_weight_lbs": 0.2375,
+    "inventory_sku": "70100050",
+    "dim_type": "Case",
+    "dim_source": "Case",
+    "shipbob_inventory_id": 11623231,
+    "unit_weight_oz": 3.8,
+    "shipbob_inventory_name": "Particle Neck Cream"
+  },
+  {
+    "id": 216919,
+    "title": "Particle Body Wash",
+    "sku": "636665869678",
+    "dimensions": {
+      "length": 6.81,
+      "width": 3.15,
+      "height": 1.97
+    },
+    "unit": "in",
+    "category": "bottle",
+    "dimensions_source": "shipbob_api_validated",
+    "unit_volume_cu_in": 42.2281,
+    "unit_weight_lbs": 1.0375,
+    "inventory_sku": null,
+    "dim_type": "Unit",
+    "dim_source": "Unit",
+    "shipbob_inventory_id": 11121561,
+    "unit_weight_oz": 16.6,
+    "shipbob_inventory_name": "Particle Body Wash"
+  },
+  {
+    "id": 1860895,
+    "title": "Particle Anti-Gray Serum",
+    "sku": "860012469703",
+    "dimensions": {
+      "length": 5.25,
+      "width": 2.25,
+      "height": 2.25
+    },
+    "unit": "in",
+    "category": "dropper",
+    "dimensions_source": "shipbob_api_validated",
+    "unit_volume_cu_in": 31.5,
+    "unit_weight_lbs": 0.375,
+    "inventory_sku": "70110500",
+    "dim_type": "Case",
+    "dim_source": "Case",
+    "shipbob_inventory_id": 18164302,
+    "shipbob_inventory_name": "Particle Anti-Gray Serum",
+    "unit_weight_oz": 6.0
+  },
+  {
+    "id": 570671,
+    "title": "Particle Hair Revival Kit",
+    "sku": "860005339730",
+    "dimensions": {
+      "length": 6.69,
+      "width": 5.91,
+      "height": 2.76
+    },
+    "unit": "in",
+    "category": "set",
+    "dimensions_source": "shipbob_api_validated",
+    "unit_volume_cu_in": 108.9267,
+    "unit_weight_lbs": 0.425,
+    "inventory_sku": null,
+    "dim_type": "Unit",
+    "dim_source": "Unit",
+    "shipbob_inventory_id": 11121569,
+    "unit_weight_oz": 6.8,
+    "shipbob_inventory_name": "Particle Hair Revival Kit"
+  },
+  {
+    "id": 216928,
+    "title": "Particle Hair Thickening Shampoo",
+    "sku": "636665869661",
+    "dimensions": {
+      "length": 6.81,
+      "width": 3.15,
+      "height": 1.97
+    },
+    "unit": "in",
+    "category": "bottle",
+    "dimensions_source": "shipbob_api_validated",
+    "unit_volume_cu_in": 42.2281,
+    "unit_weight_lbs": 1.0875,
+    "inventory_sku": null,
+    "dim_type": "Unit",
+    "dim_source": "Unit",
+    "shipbob_inventory_id": 11121560,
+    "unit_weight_oz": 17.4,
+    "shipbob_inventory_name": "Particle Shampoo"
+  },
+  {
+    "id": 616215,
+    "title": "Particle Beard Oil",
+    "sku": "860005339723",
+    "dimensions": {
+      "length": 4.13,
+      "width": 2.48,
+      "height": 2.48
+    },
+    "unit": "in",
+    "category": "dropper",
+    "dimensions_source": "shipbob_api_validated",
+    "unit_volume_cu_in": 25.4313,
+    "unit_weight_lbs": 0.2188,
+    "inventory_sku": null,
+    "dim_type": "Unit",
+    "dim_source": "Unit",
+    "shipbob_inventory_id": 11121567,
+    "unit_weight_oz": 3.5,
+    "shipbob_inventory_name": "Particle Beard Oil"
+  },
+  {
+    "id": 2293541,
+    "title": "Particle Infinite Male",
+    "sku": "860012469727",
+    "dimensions": {
+      "length": 4.15,
+      "width": 1.93,
+      "height": 1.93
+    },
+    "unit": "in",
+    "category": "supplement",
+    "dimensions_source": "shipbob_api_validated",
+    "shipbob_inventory_id": 18727399,
+    "shipbob_inventory_name": "Particle Infinite Male",
+    "unit_weight_oz": 2.91,
+    "unit_weight_lbs": 0.1819
+  },
+  {
+    "id": 1077388,
+    "title": "Particle Skin Vitamin Gummies",
+    "sku": "860005339747",
+    "dimensions": {
+      "length": 2.27,
+      "width": 2.25,
+      "height": 4.45
+    },
+    "unit": "in",
+    "category": "supplement",
+    "dimensions_source": "shipbob_api_validated",
+    "unit_volume_cu_in": 24.4444,
+    "unit_weight_lbs": 0.4,
+    "inventory_sku": "11623234",
+    "dim_type": "Pallet↓",
+    "dim_source": "Pallet↓",
+    "shipbob_inventory_id": 11623234,
+    "unit_weight_oz": 6.4,
+    "shipbob_inventory_name": "Particle Skin Vitamin Gummy"
+  },
+  {
+    "id": 1068419,
+    "title": "Particle Hair Vitamin Gummies",
+    "sku": "860005339761",
+    "dimensions": {
+      "length": 2.27,
+      "width": 2.27,
+      "height": 4.45
+    },
+    "unit": "in",
+    "category": "supplement",
+    "dimensions_source": "shipbob_api_validated",
+    "unit_volume_cu_in": 24.4444,
+    "unit_weight_lbs": 0.405,
+    "inventory_sku": "11623233",
+    "dim_type": "Pallet↓",
+    "dim_source": "Pallet↓",
+    "shipbob_inventory_id": 11623233,
+    "unit_weight_oz": 6.48,
+    "shipbob_inventory_name": "Particle Hair Vitamin Gummy"
+  },
+  {
+    "id": 2941634,
+    "title": "Particle Lady Killer Kit",
+    "sku": "77000011",
+    "category": "bundle",
+    "components": [
+      {
+        "sku": "751889384926",
+        "title": "Particle Face Cream",
+        "quantity": 1
+      },
+      {
+        "sku": "860005339785",
+        "title": "Particle Gravité",
+        "quantity": 1
+      },
+      {
+        "sku": "860012469710",
+        "title": "Particle Gravité Deodorant",
+        "quantity": 1
+      },
+      {
+        "sku": "636665869661",
+        "title": "Particle Hair Thickening Shampoo",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": 1813624,
+    "title": "Starter Bundle",
+    "sku": "9162025",
+    "category": "bundle",
+    "components": [
+      {
+        "sku": "751889384926",
+        "title": "Particle Face Cream",
+        "quantity": 1
+      },
+      {
+        "sku": "636665869647",
+        "title": "Particle Face Wash",
+        "quantity": 1
+      },
+      {
+        "sku": "860005339778",
+        "title": "Particle Neck Cream",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": 250223,
+    "title": "Essential Bundle",
+    "sku": "123456",
+    "category": "bundle",
+    "components": [
+      {
+        "sku": "751889384926",
+        "title": "Particle Face Cream",
+        "quantity": 1
+      },
+      {
+        "sku": "636665869654",
+        "title": "Particle Face Mask",
+        "quantity": 1
+      },
+      {
+        "sku": "636665869647",
+        "title": "Particle Face Wash",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": 2769533,
+    "title": "Particle Gravité Bundle",
+    "sku": "2769533",
+    "category": "bundle",
+    "components": [
+      {
+        "sku": "860012469710",
+        "title": "Particle Gravité Deodorant",
+        "quantity": 1
+      },
+      {
+        "sku": "860005339785",
+        "title": "Particle Gravité",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": 250209,
+    "title": "Advanced Bundle",
+    "sku": "223456",
+    "category": "bundle",
+    "components": [
+      {
+        "sku": "751889384926",
+        "title": "Particle Face Cream",
+        "quantity": 1
+      },
+      {
+        "sku": "636665869654",
+        "title": "Particle Face Mask",
+        "quantity": 1
+      },
+      {
+        "sku": "636665869647",
+        "title": "Particle Face Wash",
+        "quantity": 1
+      },
+      {
+        "sku": "636665869661",
+        "title": "Particle Hair Thickening Shampoo",
+        "quantity": 1
+      },
+      {
+        "sku": "636665869678",
+        "title": "Particle Body Wash",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": 616306,
+    "title": "Power Shower Set",
+    "sku": "9162021",
+    "category": "bundle",
+    "components": [
+      {
+        "sku": "636665869661",
+        "title": "Particle Hair Thickening Shampoo",
+        "quantity": 1
+      },
+      {
+        "sku": "636665869678",
+        "title": "Particle Body Wash",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": 1607485,
+    "title": "Hair Growth Bundle",
+    "sku": "816202112",
+    "category": "bundle",
+    "components": [
+      {
+        "sku": "636665869661",
+        "title": "Particle Hair Thickening Shampoo",
+        "quantity": 1
+      },
+      {
+        "sku": "860005339730",
+        "title": "Particle Hair Revival Kit",
+        "quantity": 1
+      },
+      {
+        "sku": "860005339761",
+        "title": "Particle Hair Vitamin Gummies",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": 2769100,
+    "title": "Particle Golfer's Bundle",
+    "sku": "2769100",
+    "category": "bundle",
+    "components": [
+      {
+        "sku": "751889384926",
+        "title": "Particle Face Cream",
+        "quantity": 1
+      },
+      {
+        "sku": "860010338483",
+        "title": "Particle Face Shield",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": 3279775,
+    "title": "Particle Father's Day Gift Bundle",
+    "sku": "77000013",
+    "category": "bundle",
+    "components": [
+      {
+        "sku": "751889384926",
+        "title": "Particle Face Cream",
+        "quantity": 1
+      },
+      {
+        "sku": "636665869661",
+        "title": "Particle Hair Thickening Shampoo",
+        "quantity": 1
+      },
+      {
+        "sku": "00860012469772",
+        "title": "Particle 43 Anti-Aging Shaving Gel",
+        "quantity": 1
+      },
+      {
+        "sku": "860005339785",
+        "title": "Particle Gravité",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": 3311073,
+    "title": "Bold Moves Bundle",
+    "sku": "860014695551",
+    "category": "bundle",
+    "components": [
+      {
+        "sku": "860005339785",
+        "title": "Particle Gravité",
+        "quantity": 1
+      },
+      {
+        "sku": "00860012469765",
+        "title": "Particle Varros",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": 3536797,
+    "title": "Men's Gift Bundle",
+    "sku": "77000015",
+    "category": "bundle",
+    "components": [
+      {
+        "sku": "751889384926",
+        "title": "Particle Face Cream",
+        "quantity": 1
+      },
+      {
+        "sku": "00860012469772",
+        "title": "Particle 43 Anti-Aging Shaving Gel",
+        "quantity": 1
+      },
+      {
+        "sku": "860012469710",
+        "title": "Particle Gravité Deodorant",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": 3575372,
+    "title": "Dark Spot Remover Set",
+    "sku": "77000017",
+    "category": "bundle",
+    "components": [
+      {
+        "sku": "751889384926",
+        "title": "Particle Face Cream",
+        "quantity": 1
+      },
+      {
+        "sku": "00860014497216",
+        "title": "Particle Hand Cream",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": 3713629,
+    "title": "Head Turner Set",
+    "sku": "77000013",
+    "category": "bundle",
+    "components": [
+      {
+        "sku": "751889384926",
+        "title": "Particle Face Cream",
+        "quantity": 1
+      },
+      {
+        "sku": "860005339785",
+        "title": "Particle Gravité",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": 3575379,
+    "title": "The Smooth Skin Set",
+    "sku": "77000016",
+    "category": "bundle",
+    "components": [
+      {
+        "sku": "751889384926",
+        "title": "Particle Face Cream",
+        "quantity": 1
+      },
+      {
+        "sku": "00860012469772",
+        "title": "Particle 43 Anti-Aging Shaving Gel",
+        "quantity": 1
+      }
+    ]
+  }
+]

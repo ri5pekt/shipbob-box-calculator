@@ -1,0 +1,5496 @@
+[
+  {
+    "id": 10439146,
+    "name": "Dummy Hair Vitamin Gummy",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2026-05-18T18:35:57.042Z",
+    "updated_on": "2026-05-18T20:05:50.059Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [],
+        "allergen_information": {
+          "has_allergens": false,
+          "allergens": [],
+          "product_label_url": null
+        },
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2026-05-18T18:35:56.995Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": null,
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 2.27,
+          "width": 2.27,
+          "height": 4.45,
+          "unit": "inch",
+          "is_locked": true,
+          "source": "ShipbobScan"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": "",
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1379200493,
+        "inventory": {
+          "inventory_id": 22962039,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": false,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Dummy Hair Vitamin Gummy",
+        "packaging_material_type": {
+          "id": 8,
+          "name": "Ship In Own Container"
+        },
+        "packaging_requirement": {
+          "id": 1,
+          "name": "NoRequirements"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "instructions": "",
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 2,
+            "name": "Quarantine"
+          }
+        },
+        "sku": "Dummy Hair Vitamin Gummy",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": true,
+        "updated_on": "2026-05-18T20:05:50.059Z",
+        "weight": {
+          "weight": 7.0,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 10324552,
+    "name": "Eye-Bag Killer Set",
+    "type": "Bundle",
+    "user_id": 288109,
+    "created_on": "2026-05-07T11:21:47.411Z",
+    "updated_on": null,
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [
+          {
+            "product_id": 2706812,
+            "variant_id": 14253203,
+            "variant_name": "Particle Face Cream",
+            "variant_sku": "751889384926",
+            "quantity": 1
+          },
+          {
+            "product_id": 10211423,
+            "variant_id": 1378817905,
+            "variant_name": "Particle Instant Eye Firming Cream",
+            "variant_sku": "00860012469796",
+            "quantity": 1
+          }
+        ],
+        "created_on": "2026-05-07T11:21:47.306Z",
+        "customs": null,
+        "dimension": null,
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": null,
+            "suffix": null,
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": null,
+          "fnsku_label_url": null,
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1379030348,
+        "inventory": {
+          "inventory_id": 22848530,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": null,
+        "name": "Eye-Bag Killer Set",
+        "packaging_material_type": null,
+        "packaging_requirement": null,
+        "return_preferences": null,
+        "sku": "77000019",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2026-05-07T11:21:47.306Z",
+        "weight": null,
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 10324550,
+    "name": "Advanced Testosterone Support ",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2026-05-07T11:15:36.151Z",
+    "updated_on": "2026-05-29T21:34:21.889Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 11756749,
+            "seller_sku": "0013",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1379287748,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": {
+          "has_allergens": false,
+          "allergens": [],
+          "product_label_url": null
+        },
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2026-05-07T11:15:36.059Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": null,
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "unit": "inch",
+          "is_locked": false,
+          "source": "UserEntry"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": "",
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1379030346,
+        "inventory": {
+          "inventory_id": 22848526,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": false,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Advanced Testosterone Support ",
+        "packaging_material_type": {
+          "id": 6,
+          "name": "Custom Box"
+        },
+        "packaging_requirement": {
+          "id": 9,
+          "name": "ShipsInOwnContainer"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "backup_action": null,
+          "instructions": "",
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          }
+        },
+        "sku": "0013",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2026-05-29T21:34:21.889Z",
+        "weight": {
+          "weight": 0.0,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 10313717,
+    "name": "Particle Instant Eye Firming Cream",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2026-05-03T06:47:47.972Z",
+    "updated_on": "2026-05-03T06:49:57.9Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 11573050,
+            "seller_sku": "860012469796",
+            "channel_id": 348476,
+            "channel_name": "Order Desk: Particle",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1379001127,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2026-05-03T06:47:47.881Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": "USD",
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "unit": "inch",
+          "is_locked": false,
+          "source": "UserEntry"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": null,
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1379001127,
+        "inventory": {
+          "inventory_id": 22838805,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": false,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Particle Instant Eye Firming Cream",
+        "packaging_material_type": null,
+        "packaging_requirement": null,
+        "return_preferences": {
+          "primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "instructions": "",
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 2,
+            "name": "Quarantine"
+          }
+        },
+        "sku": "860012469796",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2026-05-03T06:47:47.881Z",
+        "weight": {
+          "weight": 0.0,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 10292507,
+    "name": "Gravite tester 1.5ml",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2026-04-30T14:00:20.44Z",
+    "updated_on": "2026-05-20T16:19:46.412Z",
+    "taxonomy": {
+      "id": 3089,
+      "path": "3089",
+      "parent_name": null,
+      "parent_id": null,
+      "name": "Health & Beauty"
+    },
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 11584442,
+            "seller_sku": "70117000",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1379030429,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": {
+          "has_allergens": false,
+          "allergens": [],
+          "product_label_url": null
+        },
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2026-04-30T14:00:20.304Z",
+        "customs": {
+          "hs_tariff_code": "7010.90.5000",
+          "country_code_of_origin": "US",
+          "value": 2,
+          "currency": null,
+          "description": "Tester",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 4.9,
+          "width": 3.1,
+          "height": 1.3,
+          "unit": "inch",
+          "is_locked": true,
+          "source": "ShipbobScan"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": "",
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1378970382,
+        "inventory": {
+          "inventory_id": 22817579,
+          "on_hand_qty": 19444
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": true,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Gravite tester 1.5ml",
+        "packaging_material_type": {
+          "id": 6,
+          "name": "Custom Box"
+        },
+        "packaging_requirement": {
+          "id": 9,
+          "name": "ShipsInOwnContainer"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "backup_action": null,
+          "instructions": "",
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          }
+        },
+        "sku": "70117000",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": true,
+        "updated_on": "2026-05-20T16:19:46.412Z",
+        "weight": {
+          "weight": 0.16,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 10283146,
+    "name": "Particle Instant Eye Firming Cream",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2026-04-28T13:47:27.988Z",
+    "updated_on": "2026-05-03T13:28:33.493Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 11539883,
+            "seller_sku": "70116000",
+            "channel_id": 348476,
+            "channel_name": "Order Desk: Particle",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1378954876,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2026-04-28T13:47:27.667Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": null,
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "unit": "inch",
+          "is_locked": false,
+          "source": "UserEntry"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": "",
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1378954876,
+        "inventory": {
+          "inventory_id": 22807620,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": false,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Particle Instant Eye Firming Cream",
+        "packaging_material_type": {
+          "id": 6,
+          "name": "Custom Box"
+        },
+        "packaging_requirement": {
+          "id": 9,
+          "name": "ShipsInOwnContainer"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "backup_action": null,
+          "instructions": "",
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 2,
+            "name": "Quarantine"
+          }
+        },
+        "sku": "70116000",
+        "status": "Inactive",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2026-05-03T13:28:33.493Z",
+        "weight": {
+          "weight": 0.0,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 10226849,
+    "name": "Saggy Skin Fix",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2026-04-16T11:19:04.181Z",
+    "updated_on": "2026-04-16T12:51:37.029Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 11476418,
+            "seller_sku": "0012",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1378842273,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2026-04-16T11:19:04.12Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": null,
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "unit": "inch",
+          "is_locked": false,
+          "source": "UserEntry"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": "",
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1378841945,
+        "inventory": {
+          "inventory_id": 22744268,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": false,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Saggy Skin Fix",
+        "packaging_material_type": {
+          "id": 6,
+          "name": "Custom Box"
+        },
+        "packaging_requirement": {
+          "id": 9,
+          "name": "ShipsInOwnContainer"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "backup_action": null,
+          "instructions": "",
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          }
+        },
+        "sku": "0012",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2026-04-16T12:51:37.029Z",
+        "weight": {
+          "weight": 0.0,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 10226601,
+    "name": "Gravite Travel Size 15ml",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2026-04-16T08:41:00.467Z",
+    "updated_on": "2026-04-16T08:43:43.709Z",
+    "taxonomy": {
+      "id": 3208,
+      "path": "3089-3197-3200-3208",
+      "parent_name": "Cosmetics",
+      "parent_id": 3200,
+      "name": "Perfumes & Colognes"
+    },
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 11476190,
+            "seller_sku": "70118000",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1378841802,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2026-04-16T08:41:00.416Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": null,
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "unit": "inch",
+          "is_locked": false,
+          "source": "UserEntry"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": "",
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1378841794,
+        "inventory": {
+          "inventory_id": 22744085,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": false,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Gravite Travel Size 15ml",
+        "packaging_material_type": {
+          "id": 6,
+          "name": "Custom Box"
+        },
+        "packaging_requirement": {
+          "id": 9,
+          "name": "ShipsInOwnContainer"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "backup_action": null,
+          "instructions": "",
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          }
+        },
+        "sku": "70118000",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2026-04-16T08:43:43.709Z",
+        "weight": {
+          "weight": 0.0,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 10211423,
+    "name": "Particle Instant Eye Firming Cream",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2026-04-14T14:56:51.746Z",
+    "updated_on": "2026-05-07T11:21:47.464Z",
+    "taxonomy": {
+      "id": 3209,
+      "path": "3089-3197-3200-3209",
+      "parent_name": "Cosmetics",
+      "parent_id": 3200,
+      "name": "Skin Care"
+    },
+    "variants": [
+      {
+        "barcodes": [
+          {
+            "value": "860012469796",
+            "sticker_url": null
+          }
+        ],
+        "channel_metadata": [
+          {
+            "id": 9342400,
+            "seller_sku": "3175815",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 898158866,
+            "is_inventory_sync_enabled": true
+          },
+          {
+            "id": 11486389,
+            "seller_sku": "00860012469796",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1378866347,
+            "is_inventory_sync_enabled": true
+          },
+          {
+            "id": 11580852,
+            "seller_sku": "00860012469796",
+            "channel_id": 348476,
+            "channel_name": "Order Desk: Particle",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1379021234,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [
+          {
+            "product_id": 10324552,
+            "product_name": "Eye-Bag Killer Set",
+            "variant_id": 1379030348,
+            "variant_sku": "77000019",
+            "quantity": 1
+          }
+        ],
+        "bundle_definition": [],
+        "created_on": "2026-04-14T14:56:51.634Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": null,
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 4.15,
+          "width": 2.5,
+          "height": 2.4,
+          "unit": "inch",
+          "is_locked": true,
+          "source": "ShipbobScan"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": "",
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1378817905,
+        "inventory": {
+          "inventory_id": 22728205,
+          "on_hand_qty": 419
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": true,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Particle Instant Eye Firming Cream",
+        "packaging_material_type": {
+          "id": 6,
+          "name": "Custom Box"
+        },
+        "packaging_requirement": {
+          "id": 9,
+          "name": "ShipsInOwnContainer"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "backup_action": null,
+          "instructions": "",
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          }
+        },
+        "sku": "00860012469796",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": true,
+        "updated_on": "2026-05-07T11:21:47.464Z",
+        "weight": {
+          "weight": 2.67,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": [
+          {
+            "inventory_id": 20995339,
+            "variant_id": 898158861,
+            "variant_name": "Instant Eye Firming Cream ",
+            "completed_at": "2026-04-20T10:32:39.217Z",
+            "channel_ids": [
+              9342400
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10057310,
+    "name": "Head Turner Set",
+    "type": "Bundle",
+    "user_id": 288109,
+    "created_on": "2026-03-23T15:38:05.432Z",
+    "updated_on": null,
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [
+          {
+            "product_id": 2706812,
+            "variant_id": 14253203,
+            "variant_name": "Particle Face Cream",
+            "variant_sku": "751889384926",
+            "quantity": 1
+          },
+          {
+            "product_id": 2706751,
+            "variant_id": 15626387,
+            "variant_name": "Particle Gravite Cologne",
+            "variant_sku": "860005339785",
+            "quantity": 1
+          }
+        ],
+        "created_on": "2026-03-23T15:38:05.381Z",
+        "customs": null,
+        "dimension": null,
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": null,
+            "suffix": null,
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": null,
+          "fnsku_label_url": null,
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1378568059,
+        "inventory": {
+          "inventory_id": 22568895,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": null,
+        "name": "Head Turner Set",
+        "packaging_material_type": null,
+        "packaging_requirement": null,
+        "return_preferences": null,
+        "sku": "77000018",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2026-03-23T15:38:05.381Z",
+        "weight": null,
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 9957743,
+    "name": "Particle branded comb",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2026-03-09T16:29:27.133Z",
+    "updated_on": "2026-04-29T12:01:17.313Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 11534963,
+            "seller_sku": "70113000",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1378949957,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2026-03-09T16:29:26.983Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": "USD",
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 8.5,
+          "width": 8.28,
+          "height": 2.1,
+          "unit": "inch",
+          "is_locked": true,
+          "source": "ShipbobScan"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": "",
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1378380967,
+        "inventory": {
+          "inventory_id": 22472758,
+          "on_hand_qty": 14034
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": false,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Particle branded comb",
+        "packaging_material_type": {
+          "id": 6,
+          "name": "Custom Box"
+        },
+        "packaging_requirement": {
+          "id": 9,
+          "name": "ShipsInOwnContainer"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "backup_action": null,
+          "instructions": "",
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          }
+        },
+        "sku": "70113000",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": true,
+        "updated_on": "2026-04-29T12:01:17.313Z",
+        "weight": {
+          "weight": 27.73,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 9957638,
+    "name": "Particle branded nose hair trimmer",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2026-03-09T16:31:03.616Z",
+    "updated_on": "2026-04-29T12:01:39.791Z",
+    "taxonomy": {
+      "id": 3288,
+      "path": "3089-3197-3282-3288",
+      "parent_name": "Shaving & Grooming",
+      "parent_id": 3282,
+      "name": "Hair Clippers & Trimmers"
+    },
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 11543491,
+            "seller_sku": "70114000",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1378961220,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2026-03-09T16:31:03.516Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": "USD",
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 3.45,
+          "width": 2.72,
+          "height": 1.15,
+          "unit": "inch",
+          "is_locked": true,
+          "source": "ShipbobScan"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": "",
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1378381051,
+        "inventory": {
+          "inventory_id": 22472759,
+          "on_hand_qty": 13999
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": false,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Particle branded nose hair trimmer",
+        "packaging_material_type": {
+          "id": 6,
+          "name": "Custom Box"
+        },
+        "packaging_requirement": {
+          "id": 9,
+          "name": "ShipsInOwnContainer"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "backup_action": null,
+          "instructions": "",
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          }
+        },
+        "sku": "70114000",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": true,
+        "updated_on": "2026-04-29T12:01:39.791Z",
+        "weight": {
+          "weight": 1.47,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 9882059,
+    "name": "Particle Lip Balm 7ml",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2026-02-18T14:11:13.502Z",
+    "updated_on": "2026-04-27T12:20:01.596Z",
+    "taxonomy": {
+      "id": 3209,
+      "path": "3089-3197-3200-3209",
+      "parent_name": "Cosmetics",
+      "parent_id": 3200,
+      "name": "Skin Care"
+    },
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 11075796,
+            "seller_sku": "00860012469789",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1378223278,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2026-02-18T14:11:13.404Z",
+        "customs": {
+          "hs_tariff_code": "3304.99",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": "USD",
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 3.05,
+          "width": 0.9,
+          "height": 0.85,
+          "unit": "inch",
+          "is_locked": true,
+          "source": "ShipbobScan"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": "",
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1378163653,
+        "inventory": {
+          "inventory_id": 22401575,
+          "on_hand_qty": 5294
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": true,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Particle Lip Balm 7ml",
+        "packaging_material_type": {
+          "id": 6,
+          "name": "Custom Box"
+        },
+        "packaging_requirement": {
+          "id": 1,
+          "name": "NoRequirements"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "backup_action": null,
+          "instructions": null,
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          }
+        },
+        "sku": "00860012469789",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": true,
+        "updated_on": "2026-04-27T12:20:01.596Z",
+        "weight": {
+          "weight": 0.93,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 9473008,
+    "name": "Dark Spot Remover Set",
+    "type": "Bundle",
+    "user_id": 288109,
+    "created_on": "2026-01-13T13:19:59.66Z",
+    "updated_on": "2026-03-08T20:42:10.399Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 11165519,
+            "seller_sku": "77000017",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1378376438,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [
+          {
+            "product_id": 2706812,
+            "variant_id": 14253203,
+            "variant_name": "Particle Face Cream",
+            "variant_sku": "751889384926",
+            "quantity": 1
+          },
+          {
+            "product_id": 9230873,
+            "variant_id": 1377086966,
+            "variant_name": "Particle Dark Spot Hand Cream",
+            "variant_sku": "00860014497216",
+            "quantity": 1
+          }
+        ],
+        "created_on": "2026-01-13T13:19:59.544Z",
+        "customs": null,
+        "dimension": null,
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": null,
+            "suffix": null,
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": null,
+          "fnsku_label_url": null,
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1377572984,
+        "inventory": {
+          "inventory_id": 21995372,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": null,
+        "name": "Dark Spot Remover Set",
+        "packaging_material_type": null,
+        "packaging_requirement": null,
+        "return_preferences": null,
+        "sku": "77000017",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2026-03-08T20:42:10.399Z",
+        "weight": null,
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 9473007,
+    "name": "The Smooth Skin Set",
+    "type": "Bundle",
+    "user_id": 288109,
+    "created_on": "2026-01-13T13:19:10.314Z",
+    "updated_on": "2026-03-11T16:18:08.575Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 11181527,
+            "seller_sku": "77000016",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1378403900,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [
+          {
+            "product_id": 2706812,
+            "variant_id": 14253203,
+            "variant_name": "Particle Face Cream",
+            "variant_sku": "751889384926",
+            "quantity": 1
+          },
+          {
+            "product_id": 8453390,
+            "variant_id": 898138305,
+            "variant_name": "Particle Shaving Cream  ",
+            "variant_sku": "00860012469772",
+            "quantity": 1
+          },
+          {
+            "product_id": 8453385,
+            "variant_id": 898138299,
+            "variant_name": "Particle Shaving Cream Stand + Hourglass ",
+            "variant_sku": "00860012469758",
+            "quantity": 1
+          }
+        ],
+        "created_on": "2026-01-13T13:19:10.031Z",
+        "customs": null,
+        "dimension": null,
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": null,
+            "suffix": null,
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": null,
+          "fnsku_label_url": null,
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1377572983,
+        "inventory": {
+          "inventory_id": 21995371,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": null,
+        "name": "The Smooth Skin Set",
+        "packaging_material_type": null,
+        "packaging_requirement": null,
+        "return_preferences": null,
+        "sku": "77000016",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2026-03-11T16:18:08.575Z",
+        "weight": null,
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 9367115,
+    "name": "Men's gift bundle",
+    "type": "Bundle",
+    "user_id": 288109,
+    "created_on": "2025-12-23T08:09:44.847Z",
+    "updated_on": "2025-12-30T21:45:55.166Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 10520106,
+            "seller_sku": "77000015",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1377479358,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [
+          {
+            "product_id": 2706812,
+            "variant_id": 14253203,
+            "variant_name": "Particle Face Cream",
+            "variant_sku": "751889384926",
+            "quantity": 1
+          },
+          {
+            "product_id": 8453390,
+            "variant_id": 898138305,
+            "variant_name": "Particle Shaving Cream  ",
+            "variant_sku": "00860012469772",
+            "quantity": 1
+          },
+          {
+            "product_id": 8453385,
+            "variant_id": 898138299,
+            "variant_name": "Particle Shaving Cream Stand + Hourglass ",
+            "variant_sku": "00860012469758",
+            "quantity": 1
+          },
+          {
+            "product_id": 6210121,
+            "variant_id": 290792717,
+            "variant_name": "Particle Gravite Deodorant ",
+            "variant_sku": "860012469710",
+            "quantity": 1
+          }
+        ],
+        "created_on": "2025-12-23T08:09:44.655Z",
+        "customs": null,
+        "dimension": null,
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": null,
+            "suffix": null,
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": null,
+          "fnsku_label_url": null,
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1377383763,
+        "inventory": {
+          "inventory_id": 21891303,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": null,
+        "name": "Men's gift bundle",
+        "packaging_material_type": null,
+        "packaging_requirement": null,
+        "return_preferences": null,
+        "sku": "77000015",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2025-12-30T21:45:55.166Z",
+        "weight": null,
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 9230873,
+    "name": "Particle Dark Spot Hand Cream",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2025-11-19T12:51:40.529Z",
+    "updated_on": "2026-03-10T16:28:55.695Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 9343123,
+            "seller_sku": "860005339777",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 898161591,
+            "is_inventory_sync_enabled": true
+          },
+          {
+            "id": 10272322,
+            "seller_sku": "00860014497216",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1377094131,
+            "is_inventory_sync_enabled": true
+          },
+          {
+            "id": 10448922,
+            "seller_sku": "860014497216",
+            "channel_id": 348476,
+            "channel_name": "Order Desk: Particle",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1377384991,
+            "is_inventory_sync_enabled": true
+          },
+          {
+            "id": 10903258,
+            "seller_sku": "00860014497216",
+            "channel_id": 348476,
+            "channel_name": "Order Desk: Particle",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1378005400,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [
+          {
+            "product_id": 9473008,
+            "product_name": "Dark Spot Remover Set",
+            "variant_id": 1377572984,
+            "variant_sku": "77000017",
+            "quantity": 1
+          }
+        ],
+        "bundle_definition": [],
+        "created_on": "2025-11-19T12:51:40.401Z",
+        "customs": {
+          "hs_tariff_code": "3304.99",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": "USD",
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 6.2,
+          "width": 2.45,
+          "height": 2.43,
+          "unit": "inch",
+          "is_locked": true,
+          "source": "ShipbobScan"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": "",
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1377086966,
+        "inventory": {
+          "inventory_id": 21757502,
+          "on_hand_qty": 11306
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": true,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Particle Dark Spot Hand Cream",
+        "packaging_material_type": {
+          "id": 6,
+          "name": "Custom Box"
+        },
+        "packaging_requirement": {
+          "id": 1,
+          "name": "NoRequirements"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "backup_action": null,
+          "instructions": null,
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          }
+        },
+        "sku": "00860014497216",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": true,
+        "updated_on": "2026-02-09T12:30:47.277Z",
+        "weight": {
+          "weight": 6.37,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": [
+          {
+            "inventory_id": 20995343,
+            "variant_id": 898158865,
+            "variant_name": "Particle hand cream",
+            "completed_at": "2025-11-20T10:04:14.096Z",
+            "channel_ids": [
+              9343123
+            ]
+          },
+          {
+            "inventory_id": 21891358,
+            "variant_id": 1377384991,
+            "variant_name": "Particle Hand Cream",
+            "completed_at": "2025-12-23T11:08:04.646Z",
+            "channel_ids": [
+              10448922
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9215540,
+    "name": "Dummy New Boxes",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2025-11-13T18:24:38.666Z",
+    "updated_on": "2026-03-10T16:28:55.754Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2025-11-13T18:24:37.474Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": "USD",
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 8.0,
+          "width": 9.45,
+          "height": 3.45,
+          "unit": "inch",
+          "is_locked": true,
+          "source": "ShipbobScan"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": "",
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1377040922,
+        "inventory": {
+          "inventory_id": 21742783,
+          "on_hand_qty": 93231
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": false,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Dummy New Boxes",
+        "packaging_material_type": {
+          "id": 8,
+          "name": "Ship In Own Container"
+        },
+        "packaging_requirement": {
+          "id": 1,
+          "name": "NoRequirements"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "instructions": null,
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 2,
+            "name": "Quarantine"
+          }
+        },
+        "sku": "Dummy New Boxes",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": true,
+        "updated_on": "2026-01-28T19:23:17.786Z",
+        "weight": {
+          "weight": 5.97,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 9207102,
+    "name": "Dummy Shaving Cream",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2025-11-11T15:55:24.252Z",
+    "updated_on": "2026-03-10T16:28:55.814Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2025-11-11T15:55:24.159Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": "USD",
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 8.05,
+          "width": 4.1,
+          "height": 1.55,
+          "unit": "inch",
+          "is_locked": true,
+          "source": "ShipbobScan"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": "",
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1377015255,
+        "inventory": {
+          "inventory_id": 21735194,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": false,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Dummy Shaving Cream",
+        "packaging_material_type": {
+          "id": 8,
+          "name": "Ship In Own Container"
+        },
+        "packaging_requirement": {
+          "id": 1,
+          "name": "NoRequirements"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "instructions": null,
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 2,
+            "name": "Quarantine"
+          }
+        },
+        "sku": "Dummy Shaving Cream",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": true,
+        "updated_on": "2025-11-20T21:08:48.748Z",
+        "weight": {
+          "weight": 6.72,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 9198166,
+    "name": "Particle Varros Cologne for Men 3.38 fl.oz Eau de Parfum",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2025-11-08T15:35:11.383Z",
+    "updated_on": "2026-03-10T16:28:55.863Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "asin": null,
+            "fnsku": null,
+            "fulfillment_channel": "FBM",
+            "id": 10214864,
+            "seller_sku": "70110800",
+            "channel_id": 210552,
+            "channel_name": "A73AVBPD47Y67",
+            "platform": "Amazon",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "70110800",
+            "platform_inventory_item_id": "70110800",
+            "legacy_product_id": 1376993823,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [
+          "SDSMissing"
+        ],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2025-11-08T15:35:11.269Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": "USD",
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "unit": "inch",
+          "is_locked": false,
+          "source": "UserEntry"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": true,
+          "msds_url": "",
+          "fnsku_label_url": "",
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1376993823,
+        "inventory": {
+          "inventory_id": 21725725,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": false,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Particle Varros Cologne for Men 3.38 fl.oz Eau de Parfum",
+        "packaging_material_type": {
+          "id": 6,
+          "name": "Custom Box"
+        },
+        "packaging_requirement": {
+          "id": 9,
+          "name": "ShipsInOwnContainer"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "backup_action": null,
+          "instructions": null,
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 2,
+            "name": "Quarantine"
+          }
+        },
+        "sku": "70110800",
+        "status": "Inactive",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2025-11-25T20:45:02.1Z",
+        "weight": {
+          "weight": 0.0,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 9179605,
+    "name": "Quarantine_Particle Shaving Cream Stand + Hourglass",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2025-11-06T01:17:05.928Z",
+    "updated_on": "2026-03-10T16:28:55.907Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2025-11-06T01:17:05.741Z",
+        "customs": {
+          "hs_tariff_code": "3926.40.00",
+          "country_code_of_origin": "CN",
+          "value": 1,
+          "currency": "USD",
+          "description": "Plastic stands ",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 8.05,
+          "width": 4.37,
+          "height": 1.55,
+          "unit": "inch",
+          "is_locked": true,
+          "source": "ShipbobScan"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": "",
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1376965352,
+        "inventory": {
+          "inventory_id": 21708394,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": false,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Quarantine_Particle Shaving Cream Stand + Hourglass",
+        "packaging_material_type": {
+          "id": 1,
+          "name": "Box"
+        },
+        "packaging_requirement": {
+          "id": 1,
+          "name": "NoRequirements"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "backup_action": null,
+          "instructions": null,
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          }
+        },
+        "sku": "Quarantine_20985718",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": true,
+        "updated_on": "2025-11-12T15:05:01.612Z",
+        "weight": {
+          "weight": 11.2,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 9143324,
+    "name": "Amazon Shaving Gel and Stand",
+    "type": "Bundle",
+    "user_id": 288109,
+    "created_on": "2025-10-30T11:22:23.521Z",
+    "updated_on": "2025-10-30T14:20:08.491Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "asin": null,
+            "fnsku": null,
+            "fulfillment_channel": "FBM",
+            "id": 10159128,
+            "seller_sku": "SG+Stand",
+            "channel_id": 210552,
+            "channel_name": "A73AVBPD47Y67",
+            "platform": "Amazon",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "SG+Stand",
+            "platform_inventory_item_id": "SG+Stand",
+            "legacy_product_id": 1374339693,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [
+          {
+            "product_id": 8453385,
+            "variant_id": 898138299,
+            "variant_name": "Particle Shaving Cream Stand + Hourglass ",
+            "variant_sku": "00860012469758",
+            "quantity": 1
+          },
+          {
+            "product_id": 8453390,
+            "variant_id": 898138305,
+            "variant_name": "Particle Shaving Cream  ",
+            "variant_sku": "00860012469772",
+            "quantity": 1
+          }
+        ],
+        "created_on": "2025-10-30T11:22:23.476Z",
+        "customs": null,
+        "dimension": null,
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": null,
+            "suffix": null,
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": null,
+          "fnsku_label_url": null,
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1374338769,
+        "inventory": {
+          "inventory_id": 21671654,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": null,
+        "name": "Amazon Shaving Gel and Stand",
+        "packaging_material_type": null,
+        "packaging_requirement": null,
+        "return_preferences": null,
+        "sku": "SG+Stand",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2025-10-30T14:20:08.491Z",
+        "weight": null,
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 9072132,
+    "name": "Dummy Scar Gel",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2025-10-23T15:21:45.107Z",
+    "updated_on": "2026-03-10T16:28:55.97Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [
+          {
+            "value": "860005339716",
+            "sticker_url": null
+          }
+        ],
+        "channel_metadata": [],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2025-10-23T15:21:44.931Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": "USD",
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 2.35,
+          "width": 4.1,
+          "height": 2.35,
+          "unit": "inch",
+          "is_locked": true,
+          "source": "ShipbobScan"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": "",
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1374237543,
+        "inventory": {
+          "inventory_id": 21600811,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": false,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Dummy Scar Gel",
+        "packaging_material_type": {
+          "id": 1,
+          "name": "Box"
+        },
+        "packaging_requirement": {
+          "id": 1,
+          "name": "NoRequirements"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "instructions": null,
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 2,
+            "name": "Quarantine"
+          }
+        },
+        "sku": "Dummy Scar Gel",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": true,
+        "updated_on": "2025-11-25T16:55:01.714Z",
+        "weight": {
+          "weight": 2.64,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 9059312,
+    "name": "Bold Moves Bundle ",
+    "type": "Bundle",
+    "user_id": 288109,
+    "created_on": "2025-10-21T16:46:09.322Z",
+    "updated_on": "2025-11-02T09:26:27.011Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 10170824,
+            "seller_sku": "860014695551",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1376922746,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [
+          {
+            "product_id": 2706751,
+            "variant_id": 15626387,
+            "variant_name": "Particle Gravite Cologne",
+            "variant_sku": "860005339785",
+            "quantity": 1
+          },
+          {
+            "product_id": 8858361,
+            "variant_id": 1166481316,
+            "variant_name": "Varros Perfume - 100ml",
+            "variant_sku": "00860012469765",
+            "quantity": 1
+          }
+        ],
+        "created_on": "2025-10-21T16:46:08.86Z",
+        "customs": null,
+        "dimension": null,
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": null,
+            "suffix": null,
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": null,
+          "fnsku_label_url": null,
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1374214787,
+        "inventory": {
+          "inventory_id": 21587947,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": null,
+        "name": "Bold Moves Bundle ",
+        "packaging_material_type": null,
+        "packaging_requirement": null,
+        "return_preferences": null,
+        "sku": "860014695551",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2025-11-02T09:26:27.011Z",
+        "weight": null,
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 8952758,
+    "name": "Life Drive",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2025-10-09T09:26:48.174Z",
+    "updated_on": "2026-03-10T16:28:56.032Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 9963205,
+            "seller_sku": "3263033",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1347360542,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2025-10-09T09:26:48.023Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": "USD",
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "unit": "inch",
+          "is_locked": false,
+          "source": "UserEntry"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": null,
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1347360539,
+        "inventory": {
+          "inventory_id": 21481811,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": false,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Life Drive",
+        "packaging_material_type": {
+          "id": 6,
+          "name": "Custom Box"
+        },
+        "packaging_requirement": {
+          "id": 9,
+          "name": "ShipsInOwnContainer"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "instructions": null,
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 2,
+            "name": "Quarantine"
+          }
+        },
+        "sku": "3263033",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2025-10-09T11:13:05.684Z",
+        "weight": {
+          "weight": 0.0,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 8952718,
+    "name": "2025 Holiday Gift Bundle",
+    "type": "Bundle",
+    "user_id": 288109,
+    "created_on": "2025-10-09T08:21:20.521Z",
+    "updated_on": "2025-11-02T08:28:21.372Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 10074419,
+            "seller_sku": "77000013",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1374222159,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [
+          {
+            "product_id": 8453385,
+            "variant_id": 898138299,
+            "variant_name": "Particle Shaving Cream Stand + Hourglass ",
+            "variant_sku": "00860012469758",
+            "quantity": 1
+          },
+          {
+            "product_id": 2706812,
+            "variant_id": 14253203,
+            "variant_name": "Particle Face Cream",
+            "variant_sku": "751889384926",
+            "quantity": 1
+          },
+          {
+            "product_id": 2706746,
+            "variant_id": 14274124,
+            "variant_name": "Particle Shampoo",
+            "variant_sku": "636665869661",
+            "quantity": 1
+          },
+          {
+            "product_id": 8453390,
+            "variant_id": 898138305,
+            "variant_name": "Particle Shaving Cream  ",
+            "variant_sku": "00860012469772",
+            "quantity": 1
+          },
+          {
+            "product_id": 2706751,
+            "variant_id": 15626387,
+            "variant_name": "Particle Gravite Cologne",
+            "variant_sku": "860005339785",
+            "quantity": 1
+          }
+        ],
+        "created_on": "2025-10-09T08:21:20.387Z",
+        "customs": null,
+        "dimension": null,
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": null,
+            "suffix": null,
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": null,
+          "fnsku_label_url": null,
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1347359882,
+        "inventory": {
+          "inventory_id": 21480316,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": null,
+        "name": "2025 Holiday Gift Bundle",
+        "packaging_material_type": null,
+        "packaging_requirement": null,
+        "return_preferences": null,
+        "sku": "77000013",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2025-11-02T08:28:21.372Z",
+        "weight": null,
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 8952714,
+    "name": "2025 Holiday Gift Budnle",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2025-10-09T08:15:37.942Z",
+    "updated_on": "2026-03-10T16:28:56.08Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2025-10-09T08:15:37.684Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": "USD",
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "unit": "inch",
+          "is_locked": false,
+          "source": "UserEntry"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": null,
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1347359873,
+        "inventory": {
+          "inventory_id": 21480312,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": false,
+          "minimum_shelf_life_days": null
+        },
+        "name": "2025 Holiday Gift Budnle",
+        "packaging_material_type": null,
+        "packaging_requirement": null,
+        "return_preferences": {
+          "primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "instructions": null,
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 2,
+            "name": "Quarantine"
+          }
+        },
+        "sku": "77000012",
+        "status": "Inactive",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2025-10-09T08:16:03.047Z",
+        "weight": {
+          "weight": 0.0,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 8858361,
+    "name": "Varros Perfume - 100ml",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2025-09-28T09:47:38.233Z",
+    "updated_on": "2026-03-10T16:28:56.123Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 10004948,
+            "seller_sku": "00860012469765",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1374114438,
+            "is_inventory_sync_enabled": true
+          },
+          {
+            "asin": null,
+            "fnsku": null,
+            "fulfillment_channel": "FBM",
+            "id": 10216901,
+            "seller_sku": "00860012469765",
+            "channel_id": 210552,
+            "channel_name": "A73AVBPD47Y67",
+            "platform": "Amazon",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "00860012469765",
+            "platform_inventory_item_id": "00860012469765",
+            "legacy_product_id": 1376997856,
+            "is_inventory_sync_enabled": true
+          },
+          {
+            "id": 10241741,
+            "seller_sku": "00860012469765",
+            "channel_id": 348476,
+            "channel_name": "Order Desk: Particle",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1377036879,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [
+          {
+            "product_id": 9059312,
+            "product_name": "Bold Moves Bundle ",
+            "variant_id": 1374214787,
+            "variant_sku": "860014695551",
+            "quantity": 1
+          }
+        ],
+        "bundle_definition": [],
+        "created_on": "2025-09-28T09:47:38.102Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "US",
+          "value": null,
+          "currency": "USD",
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 5.85,
+          "width": 3.6,
+          "height": 2.15,
+          "unit": "inch",
+          "is_locked": true,
+          "source": "ShipbobScan"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": true,
+          "msds_url": "https://attachmentapi.shipbob.com:443/api/attachment/46fb9d15-c8bf-4b65-a22b-b85fccdc2779?catalog-filename=Varros+SDS_386-33-2.pdf",
+          "fnsku_label_url": null,
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1166481316,
+        "inventory": {
+          "inventory_id": 21383637,
+          "on_hand_qty": 6810
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": true,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Varros Perfume - 100ml",
+        "packaging_material_type": {
+          "id": 6,
+          "name": "Custom Box"
+        },
+        "packaging_requirement": {
+          "id": 9,
+          "name": "ShipsInOwnContainer"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "backup_action": null,
+          "instructions": null,
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          }
+        },
+        "sku": "00860012469765",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": true,
+        "updated_on": "2025-11-13T08:32:51.452Z",
+        "weight": {
+          "weight": 15.04,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": {
+          "charge_state_percentage": null,
+          "container_metal": null,
+          "container_type": "Glass",
+          "lithium_battery_packaging": null,
+          "lithium_battery_type": null,
+          "magnet": null,
+          "net_volume": 3.38,
+          "net_weight": 3.38
+        },
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 8843103,
+    "name": "Body Wash - FBA",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2025-09-25T16:31:25.227Z",
+    "updated_on": "2026-03-10T16:28:56.188Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2025-09-25T16:31:24.9Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": "USD",
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 7.5,
+          "width": 3.0,
+          "height": 2.0,
+          "unit": "inch",
+          "is_locked": true,
+          "source": "ShipbobScan"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": null,
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 1130805903,
+        "inventory": {
+          "inventory_id": 21368634,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": true,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Body Wash - FBA",
+        "packaging_material_type": {
+          "id": 1,
+          "name": "Box"
+        },
+        "packaging_requirement": {
+          "id": 1,
+          "name": "NoRequirements"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "backup_action": null,
+          "instructions": null,
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 2,
+            "name": "Quarantine"
+          }
+        },
+        "sku": "00860014497230",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": true,
+        "updated_on": "2025-09-29T14:35:01.657Z",
+        "weight": {
+          "weight": 17.0,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 8506458,
+    "name": "Particle Anti-Acne Skin Repair Scar Gel | A Silicone-Based Skincare Solution for Men",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2025-08-05T07:48:54.264Z",
+    "updated_on": "2026-03-10T16:28:56.249Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 9388496,
+            "seller_sku": "860005339716-3",
+            "channel_id": 348476,
+            "channel_name": "Order Desk: Particle",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 898239241,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2025-08-05T07:48:54.145Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": "USD",
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "unit": "inch",
+          "is_locked": false,
+          "source": "UserEntry"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": "",
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 898239241,
+        "inventory": {
+          "inventory_id": 21038145,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": false,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Particle Anti-Acne Skin Repair Scar Gel | A Silicone-Based Skincare Solution for Men",
+        "packaging_material_type": null,
+        "packaging_requirement": null,
+        "return_preferences": {
+          "primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "instructions": null,
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 2,
+            "name": "Quarantine"
+          }
+        },
+        "sku": "860005339716-3",
+        "status": "Inactive",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2026-01-22T09:15:01.697Z",
+        "weight": {
+          "weight": 0.0,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 8505908,
+    "name": "Particle Anti-Gray Serum For Men | Reverse That Gray Hair Without Harsh Chemicals",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2025-08-05T07:09:52.587Z",
+    "updated_on": "2026-03-10T16:28:56.302Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 9387997,
+            "seller_sku": "860012469703-3",
+            "channel_id": 348476,
+            "channel_name": "Order Desk: Particle",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 898238676,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2025-08-05T07:09:52.561Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": "USD",
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "unit": "inch",
+          "is_locked": false,
+          "source": "UserEntry"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": null,
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 898238676,
+        "inventory": {
+          "inventory_id": 21037595,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": false,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Particle Anti-Gray Serum For Men | Reverse That Gray Hair Without Harsh Chemicals",
+        "packaging_material_type": null,
+        "packaging_requirement": null,
+        "return_preferences": {
+          "primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "instructions": null,
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 2,
+            "name": "Quarantine"
+          }
+        },
+        "sku": "860012469703-3",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2025-08-14T22:22:40.902Z",
+        "weight": {
+          "weight": 0.0,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 8505829,
+    "name": "Cream",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2025-08-05T07:05:42.791Z",
+    "updated_on": "2026-03-10T16:28:56.339Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 9387996,
+            "seller_sku": "123",
+            "channel_id": 348476,
+            "channel_name": "Order Desk: Particle",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 898238597,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2025-08-05T07:05:42.351Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": "USD",
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "unit": "inch",
+          "is_locked": false,
+          "source": "UserEntry"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": null,
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 898238597,
+        "inventory": {
+          "inventory_id": 21037516,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": false,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Cream",
+        "packaging_material_type": null,
+        "packaging_requirement": null,
+        "return_preferences": {
+          "primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "instructions": null,
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 2,
+            "name": "Quarantine"
+          }
+        },
+        "sku": "123",
+        "status": "Inactive",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2025-11-25T20:45:01.967Z",
+        "weight": {
+          "weight": 0.0,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 8463563,
+    "name": "Hair Regrowth System",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2025-07-27T07:36:18.947Z",
+    "updated_on": "2026-03-10T16:28:56.46Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 9339649,
+            "seller_sku": "3186094",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 898161737,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2025-07-27T07:36:18.816Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": "USD",
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "unit": "inch",
+          "is_locked": false,
+          "source": "UserEntry"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": null,
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 898158860,
+        "inventory": {
+          "inventory_id": 20995338,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": false,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Hair Regrowth System",
+        "packaging_material_type": {
+          "id": 6,
+          "name": "Custom Box"
+        },
+        "packaging_requirement": {
+          "id": 9,
+          "name": "ShipsInOwnContainer"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "backup_action": null,
+          "instructions": null,
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          }
+        },
+        "sku": "3186094",
+        "status": "Inactive",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2025-11-25T20:45:01.962Z",
+        "weight": {
+          "weight": 0.0,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 8463561,
+    "name": "Blackhead Remover Strips",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2025-07-27T07:34:45.858Z",
+    "updated_on": "2026-03-10T16:28:56.514Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 9379266,
+            "seller_sku": "3194756",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 898217920,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2025-07-27T07:34:45.755Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": "USD",
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "unit": "inch",
+          "is_locked": false,
+          "source": "UserEntry"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": null,
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 898158858,
+        "inventory": {
+          "inventory_id": 20995336,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": false,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Blackhead Remover Strips",
+        "packaging_material_type": {
+          "id": 6,
+          "name": "Custom Box"
+        },
+        "packaging_requirement": {
+          "id": 9,
+          "name": "ShipsInOwnContainer"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "backup_action": null,
+          "instructions": null,
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          }
+        },
+        "sku": "3194756",
+        "status": "Inactive",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2025-11-25T20:45:01.956Z",
+        "weight": {
+          "weight": 0.0,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 8453390,
+    "name": "Particle Shaving Gel",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2025-07-24T08:04:44.137Z",
+    "updated_on": "2026-05-22T22:55:01.513Z",
+    "taxonomy": {
+      "id": 3293,
+      "path": "3089-3197-3282-3293",
+      "parent_name": "Shaving & Grooming",
+      "parent_id": 3282,
+      "name": "Shaving Creams"
+    },
+    "variants": [
+      {
+        "barcodes": [
+          {
+            "value": "860012469772",
+            "sticker_url": null
+          }
+        ],
+        "channel_metadata": [
+          {
+            "id": 9893613,
+            "seller_sku": "00860012469772",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1280199342,
+            "is_inventory_sync_enabled": true
+          },
+          {
+            "asin": null,
+            "fnsku": null,
+            "fulfillment_channel": "FBM",
+            "id": 10131947,
+            "seller_sku": "70110700",
+            "channel_id": 210552,
+            "channel_name": "A73AVBPD47Y67",
+            "platform": "Amazon",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "70110700",
+            "platform_inventory_item_id": "70110700",
+            "legacy_product_id": 1374303625,
+            "is_inventory_sync_enabled": false
+          },
+          {
+            "id": 10220935,
+            "seller_sku": "00860012469772",
+            "channel_id": 348476,
+            "channel_name": "Order Desk: Particle",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1377005311,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [
+          {
+            "product_id": 8952718,
+            "product_name": "2025 Holiday Gift Bundle",
+            "variant_id": 1347359882,
+            "variant_sku": "77000013",
+            "quantity": 1
+          },
+          {
+            "product_id": 9143324,
+            "product_name": "Amazon Shaving Gel and Stand",
+            "variant_id": 1374338769,
+            "variant_sku": "SG+Stand",
+            "quantity": 1
+          },
+          {
+            "product_id": 9367115,
+            "product_name": "Men's gift bundle",
+            "variant_id": 1377383763,
+            "variant_sku": "77000015",
+            "quantity": 1
+          },
+          {
+            "product_id": 9473007,
+            "product_name": "The Smooth Skin Set",
+            "variant_id": 1377572983,
+            "variant_sku": "77000016",
+            "quantity": 1
+          }
+        ],
+        "bundle_definition": [],
+        "created_on": "2025-07-24T08:04:44.029Z",
+        "customs": {
+          "hs_tariff_code": "3307.10.00",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": "USD",
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 7.2,
+          "width": 2.15,
+          "height": 2.13,
+          "unit": "inch",
+          "is_locked": true,
+          "source": "ShipbobScan"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": true,
+          "msds_url": "https://attachmentapi.shipbob.com:443/api/attachment/07089e72-3a56-44df-a93b-100bf234aa43?catalog-filename=SDS-Particle+for+Men+Anti-Aging+Shaving+Gel+%23138-08-04C.pdf",
+          "fnsku_label_url": "",
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 898138305,
+        "inventory": {
+          "inventory_id": 20985723,
+          "on_hand_qty": 17820
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": true,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Particle Shaving Gel",
+        "packaging_material_type": {
+          "id": 6,
+          "name": "Custom Box"
+        },
+        "packaging_requirement": {
+          "id": 1,
+          "name": "NoRequirements"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "backup_action": null,
+          "instructions": null,
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          }
+        },
+        "sku": "00860012469772",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": true,
+        "updated_on": "2026-05-22T22:55:01.513Z",
+        "weight": {
+          "weight": 8.16,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": {
+          "charge_state_percentage": null,
+          "container_metal": null,
+          "container_type": "Plastic",
+          "lithium_battery_packaging": null,
+          "lithium_battery_type": null,
+          "magnet": null,
+          "net_volume": 4.05,
+          "net_weight": 4.05
+        },
+        "merge_children": [
+          {
+            "inventory_id": 21645210,
+            "variant_id": 1374303625,
+            "variant_name": "Particle Anti Aging Shaving Gel for Men, Firm and tighten your Skin with Every Shave in Just 43 seconds (4.05 fl.oz)",
+            "completed_at": "2025-10-29T06:03:10.551Z",
+            "channel_ids": [
+              10131947
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8453385,
+    "name": "Particle Shaving Cream Stand + Hourglass ",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2025-07-24T07:54:48.071Z",
+    "updated_on": "2026-03-10T16:28:56.619Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 9893614,
+            "seller_sku": "00860012469758",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1280199343,
+            "is_inventory_sync_enabled": true
+          },
+          {
+            "id": 10222560,
+            "seller_sku": "00860012469758",
+            "channel_id": 348476,
+            "channel_name": "Order Desk: Particle",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1377008220,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [
+          {
+            "product_id": 9143324,
+            "product_name": "Amazon Shaving Gel and Stand",
+            "variant_id": 1374338769,
+            "variant_sku": "SG+Stand",
+            "quantity": 1
+          },
+          {
+            "product_id": 8952718,
+            "product_name": "2025 Holiday Gift Bundle",
+            "variant_id": 1347359882,
+            "variant_sku": "77000013",
+            "quantity": 1
+          },
+          {
+            "product_id": 9367115,
+            "product_name": "Men's gift bundle",
+            "variant_id": 1377383763,
+            "variant_sku": "77000015",
+            "quantity": 1
+          },
+          {
+            "product_id": 9473007,
+            "product_name": "The Smooth Skin Set",
+            "variant_id": 1377572983,
+            "variant_sku": "77000016",
+            "quantity": 1
+          }
+        ],
+        "bundle_definition": [],
+        "created_on": "2025-07-24T07:54:47.94Z",
+        "customs": {
+          "hs_tariff_code": "3926.40.00",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": "USD",
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 8.05,
+          "width": 4.37,
+          "height": 1.55,
+          "unit": "inch",
+          "is_locked": true,
+          "source": "ShipbobScan"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": "",
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 898138299,
+        "inventory": {
+          "inventory_id": 20985718,
+          "on_hand_qty": 21467
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": false,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Particle Shaving Cream Stand + Hourglass ",
+        "packaging_material_type": {
+          "id": 6,
+          "name": "Custom Box"
+        },
+        "packaging_requirement": {
+          "id": 9,
+          "name": "ShipsInOwnContainer"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "backup_action": null,
+          "instructions": null,
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          }
+        },
+        "sku": "00860012469758",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": true,
+        "updated_on": "2026-01-13T13:19:10.38Z",
+        "weight": {
+          "weight": 6.8,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 8440233,
+    "name": "One-Unit Shipper Box Stage (Part B)",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2025-07-23T13:45:42.93Z",
+    "updated_on": "2026-05-27T06:30:35.951Z",
+    "taxonomy": {
+      "id": 5374,
+      "path": "sb-pm-5369-5374",
+      "parent_name": "Packaging Material",
+      "parent_id": 5369,
+      "name": "Marketing Insert"
+    },
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 10124616,
+            "seller_sku": "6005.0003B",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1374291236,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2025-07-23T13:45:42.844Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": null,
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 6.25,
+          "width": 6.25,
+          "height": 1.75,
+          "unit": "inch",
+          "is_locked": true,
+          "source": "ShipbobScan"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": "",
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 898107424,
+        "inventory": {
+          "inventory_id": 20972549,
+          "on_hand_qty": 96858
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": false,
+          "minimum_shelf_life_days": null
+        },
+        "name": "One-Unit Shipper Box Stage (Part B)",
+        "packaging_material_type": null,
+        "packaging_requirement": {
+          "id": 8,
+          "name": "IsPackagingMaterial"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "backup_action": null,
+          "instructions": "",
+          "return_to_sender_primary_action": null,
+          "return_to_sender_backup_action": null
+        },
+        "sku": "6005.0003B",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": true,
+        "updated_on": "2026-05-27T06:30:35.951Z",
+        "weight": {
+          "weight": 1.0,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 8440232,
+    "name": "Branded one-unit shipper box",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2025-07-23T13:44:28.615Z",
+    "updated_on": "2026-05-27T06:26:41.731Z",
+    "taxonomy": {
+      "id": 5370,
+      "path": "sb-pm-5369-5370",
+      "parent_name": "Packaging Material",
+      "parent_id": 5369,
+      "name": "Custom Box"
+    },
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 10124679,
+            "seller_sku": "6005.0003",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1374291321,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2025-07-23T13:44:28.187Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": null,
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 6.75,
+          "width": 6.5,
+          "height": 3.0,
+          "unit": "inch",
+          "is_locked": true,
+          "source": "ShipbobScan"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": "",
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 898107423,
+        "inventory": {
+          "inventory_id": 20972548,
+          "on_hand_qty": 87826
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": false,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Branded one-unit shipper box",
+        "packaging_material_type": null,
+        "packaging_requirement": {
+          "id": 8,
+          "name": "IsPackagingMaterial"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "instructions": "",
+          "return_to_sender_primary_action": null,
+          "return_to_sender_backup_action": null
+        },
+        "sku": "6005.0003",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": true,
+        "updated_on": "2026-05-27T06:26:41.731Z",
+        "weight": {
+          "weight": 4.0,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 8439558,
+    "name": "Particle Shampoo - FBA",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2025-07-23T10:35:08.879Z",
+    "updated_on": "2026-03-10T16:28:56.775Z",
+    "taxonomy": {
+      "id": 3250,
+      "path": "3089-3197-3237-3250",
+      "parent_name": "Hair Care",
+      "parent_id": 3237,
+      "name": "Shampoo & Conditioner"
+    },
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2025-07-23T10:35:08.66Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": "USD",
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 7.0,
+          "width": 3.5,
+          "height": 2.5,
+          "unit": "inch",
+          "is_locked": true,
+          "source": "ShipbobScan"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": null,
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 898106634,
+        "inventory": {
+          "inventory_id": 20971874,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": true,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Particle Shampoo - FBA",
+        "packaging_material_type": {
+          "id": 1,
+          "name": "Box"
+        },
+        "packaging_requirement": {
+          "id": 1,
+          "name": "NoRequirements"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 2,
+            "name": "Quarantine"
+          },
+          "backup_action": null,
+          "instructions": null,
+          "return_to_sender_primary_action": null,
+          "return_to_sender_backup_action": null
+        },
+        "sku": "860005339709",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": true,
+        "updated_on": "2025-08-14T22:22:38.717Z",
+        "weight": {
+          "weight": 16.0,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 8354735,
+    "name": "Particle Face Cream - FBA",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2025-07-03T14:02:01.054Z",
+    "updated_on": "2026-03-10T16:28:56.836Z",
+    "taxonomy": {
+      "id": 3209,
+      "path": "3089-3197-3200-3209",
+      "parent_name": "Cosmetics",
+      "parent_id": 3200,
+      "name": "Skin Care"
+    },
+    "variants": [
+      {
+        "barcodes": [
+          {
+            "value": "860005339792",
+            "sticker_url": null
+          }
+        ],
+        "channel_metadata": [],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2025-07-03T14:02:00.911Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": "USD",
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 7.0,
+          "width": 3.0,
+          "height": 3.0,
+          "unit": "inch",
+          "is_locked": true,
+          "source": "ShipbobScan"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": null,
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 897939617,
+        "inventory": {
+          "inventory_id": 20885771,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": true,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Particle Face Cream - FBA",
+        "packaging_material_type": {
+          "id": 1,
+          "name": "Box"
+        },
+        "packaging_requirement": {
+          "id": 1,
+          "name": "NoRequirements"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "backup_action": null,
+          "instructions": null,
+          "return_to_sender_primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "return_to_sender_backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          }
+        },
+        "sku": "860005339792",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": true,
+        "updated_on": "2025-08-14T22:22:38.45Z",
+        "weight": {
+          "weight": 5.0,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 8354688,
+    "name": "Particle Lady Killer Kit",
+    "type": "Bundle",
+    "user_id": 288109,
+    "created_on": "2025-07-03T11:56:20.494Z",
+    "updated_on": "2025-10-15T19:51:16.42Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 9228365,
+            "seller_sku": "77000011",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 897965063,
+            "is_inventory_sync_enabled": true
+          },
+          {
+            "id": 10051942,
+            "seller_sku": "77000011",
+            "channel_id": 348476,
+            "channel_name": "Order Desk: Particle",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1374174412,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [
+          {
+            "product_id": 2706812,
+            "variant_id": 14253203,
+            "variant_name": "Particle Face Cream",
+            "variant_sku": "751889384926",
+            "quantity": 1
+          },
+          {
+            "product_id": 2706751,
+            "variant_id": 15626387,
+            "variant_name": "Particle Gravite Cologne",
+            "variant_sku": "860005339785",
+            "quantity": 1
+          },
+          {
+            "product_id": 6210121,
+            "variant_id": 290792717,
+            "variant_name": "Particle Gravite Deodorant ",
+            "variant_sku": "860012469710",
+            "quantity": 1
+          },
+          {
+            "product_id": 2706746,
+            "variant_id": 14274124,
+            "variant_name": "Particle Shampoo",
+            "variant_sku": "636665869661",
+            "quantity": 1
+          }
+        ],
+        "created_on": "2025-07-03T11:56:20.347Z",
+        "customs": null,
+        "dimension": null,
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": null,
+            "suffix": null,
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": null,
+          "fnsku_label_url": null,
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 897939529,
+        "inventory": {
+          "inventory_id": 20885709,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": null,
+        "name": "Particle Lady Killer Kit",
+        "packaging_material_type": null,
+        "packaging_requirement": null,
+        "return_preferences": null,
+        "sku": "77000011",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2025-10-15T19:51:16.42Z",
+        "weight": null,
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 8118947,
+    "name": "TikTok Marketing Insert",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2025-05-15T08:47:09.193Z",
+    "updated_on": "2026-05-27T06:30:35.847Z",
+    "taxonomy": {
+      "id": 5374,
+      "path": "sb-pm-5369-5374",
+      "parent_name": "Packaging Material",
+      "parent_id": 5369,
+      "name": "Marketing Insert"
+    },
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2025-05-15T08:47:09.062Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": null,
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 6.05,
+          "width": 4.05,
+          "height": 0.05,
+          "unit": "inch",
+          "is_locked": true,
+          "source": "ShipbobScan"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": "",
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 897490414,
+        "inventory": {
+          "inventory_id": 20647468,
+          "on_hand_qty": 43368
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": false,
+          "minimum_shelf_life_days": null
+        },
+        "name": "TikTok Marketing Insert",
+        "packaging_material_type": null,
+        "packaging_requirement": {
+          "id": 8,
+          "name": "IsPackagingMaterial"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 1,
+            "name": "Restock"
+          },
+          "backup_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "instructions": "",
+          "return_to_sender_primary_action": null,
+          "return_to_sender_backup_action": null
+        },
+        "sku": "00860012469741",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": true,
+        "updated_on": "2026-05-27T06:30:35.847Z",
+        "weight": {
+          "weight": 0.32,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 8008446,
+    "name": "Particle Anti-Aging Body Cream",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2025-04-25T02:29:13.559Z",
+    "updated_on": "2026-03-10T16:28:56.948Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 8844903,
+            "seller_sku": "E902BB73798C123",
+            "channel_id": 125294,
+            "channel_name": "c8aeb931a3584f069bc2a993a0ec3839",
+            "platform": "ShipStation",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "966551928",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 897292614,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2025-04-25T02:29:13.359Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": "USD",
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "unit": "inch",
+          "is_locked": false,
+          "source": "UserEntry"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": null,
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 897292614,
+        "inventory": {
+          "inventory_id": 20532486,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": true,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Particle Anti-Aging Body Cream",
+        "packaging_material_type": null,
+        "packaging_requirement": null,
+        "return_preferences": {
+          "primary_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "backup_action": null,
+          "instructions": null,
+          "return_to_sender_primary_action": null,
+          "return_to_sender_backup_action": null
+        },
+        "sku": "E902BB73798C123",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2025-08-14T22:22:38.045Z",
+        "weight": {
+          "weight": 0.0,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 7874953,
+    "name": "Particle Creatine Max",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2025-04-04T20:30:27.089Z",
+    "updated_on": "2026-03-10T16:28:56.985Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 8698539,
+            "seller_sku": "2829776",
+            "channel_id": 125294,
+            "channel_name": "c8aeb931a3584f069bc2a993a0ec3839",
+            "platform": "ShipStation",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "2829776",
+            "platform_inventory_item_id": "45008348",
+            "legacy_product_id": 897076732,
+            "is_inventory_sync_enabled": true
+          },
+          {
+            "id": 8856463,
+            "seller_sku": "2829776",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 897319323,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2025-04-04T20:30:26.421Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": "USD",
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "unit": "inch",
+          "is_locked": false,
+          "source": "UserEntry"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": null,
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 897076732,
+        "inventory": {
+          "inventory_id": 20398597,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": true,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Particle Creatine Max",
+        "packaging_material_type": null,
+        "packaging_requirement": null,
+        "return_preferences": {
+          "primary_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "backup_action": null,
+          "instructions": null,
+          "return_to_sender_primary_action": null,
+          "return_to_sender_backup_action": null
+        },
+        "sku": "2829776",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2025-08-14T22:22:37.86Z",
+        "weight": {
+          "weight": 0.0,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 7826312,
+    "name": "Beat Back Aging System - Bundle",
+    "type": "Bundle",
+    "user_id": 288109,
+    "created_on": "2025-03-26T15:32:00.87Z",
+    "updated_on": "2025-05-02T18:12:09.825Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 8875947,
+            "seller_sku": "77000010",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 897353900,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [
+          {
+            "product_id": 2706748,
+            "variant_id": 14274122,
+            "variant_name": "Particle Face Mask",
+            "variant_sku": "636665869654",
+            "quantity": 1
+          },
+          {
+            "product_id": 2706812,
+            "variant_id": 14253203,
+            "variant_name": "Particle Face Cream",
+            "variant_sku": "751889384926",
+            "quantity": 1
+          },
+          {
+            "product_id": 2706747,
+            "variant_id": 14274123,
+            "variant_name": "Particle Face Wash",
+            "variant_sku": "636665869647",
+            "quantity": 1
+          },
+          {
+            "product_id": 2706739,
+            "variant_id": 14764551,
+            "variant_name": "Particle Neck Cream",
+            "variant_sku": "860005339778",
+            "quantity": 1
+          }
+        ],
+        "created_on": "2025-03-26T15:32:00.488Z",
+        "customs": null,
+        "dimension": null,
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": null,
+            "suffix": null,
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": null,
+          "fnsku_label_url": null,
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 896993665,
+        "inventory": {
+          "inventory_id": 20351327,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": null,
+        "name": "Beat Back Aging System - Bundle",
+        "packaging_material_type": null,
+        "packaging_requirement": null,
+        "return_preferences": null,
+        "sku": "77000010",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2025-05-02T18:12:09.825Z",
+        "weight": null,
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 7818477,
+    "name": "Golfers Bundle",
+    "type": "Bundle",
+    "user_id": 288109,
+    "created_on": "2025-03-24T08:45:34.682Z",
+    "updated_on": "2025-11-20T22:51:16.313Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 8824067,
+            "seller_sku": "2769100",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 897255972,
+            "is_inventory_sync_enabled": true
+          },
+          {
+            "id": 10274277,
+            "seller_sku": "2769100",
+            "channel_id": 348476,
+            "channel_name": "Order Desk: Particle",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1377094314,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [
+          {
+            "product_id": 2706812,
+            "variant_id": 14253203,
+            "variant_name": "Particle Face Cream",
+            "variant_sku": "751889384926",
+            "quantity": 1
+          },
+          {
+            "product_id": 3499223,
+            "variant_id": 33825167,
+            "variant_name": "Particle Invisible Sunscreen ",
+            "variant_sku": "860010338483",
+            "quantity": 1
+          }
+        ],
+        "created_on": "2025-03-24T08:45:34.581Z",
+        "customs": null,
+        "dimension": null,
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": null,
+            "suffix": null,
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": null,
+          "fnsku_label_url": null,
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 896974381,
+        "inventory": {
+          "inventory_id": 20343871,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": null,
+        "name": "Golfers Bundle",
+        "packaging_material_type": null,
+        "packaging_requirement": null,
+        "return_preferences": null,
+        "sku": "2769100",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2025-11-20T22:51:16.313Z",
+        "weight": null,
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 7636399,
+    "name": "Amazon Insert B",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2025-03-16T15:51:13.012Z",
+    "updated_on": "2026-05-27T06:30:35.755Z",
+    "taxonomy": {
+      "id": 5374,
+      "path": "sb-pm-5369-5374",
+      "parent_name": "Packaging Material",
+      "parent_id": 5369,
+      "name": "Marketing Insert"
+    },
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2025-03-16T15:51:12.823Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": null,
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 6.0,
+          "width": 4.0,
+          "height": 0.05,
+          "unit": "inch",
+          "is_locked": true,
+          "source": "ShipbobScan"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": "",
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 837001877,
+        "inventory": {
+          "inventory_id": 20162190,
+          "on_hand_qty": 2490
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": false,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Amazon Insert B",
+        "packaging_material_type": null,
+        "packaging_requirement": {
+          "id": 8,
+          "name": "IsPackagingMaterial"
+        },
+        "return_preferences": {
+          "primary_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "backup_action": null,
+          "instructions": "",
+          "return_to_sender_primary_action": null,
+          "return_to_sender_backup_action": null
+        },
+        "sku": "00860012469734",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": true,
+        "updated_on": "2026-05-27T06:30:35.755Z",
+        "weight": {
+          "weight": 0.16,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 7615330,
+    "name": "Particle Night Scalp Booster",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2025-03-10T15:57:21.078Z",
+    "updated_on": "2026-03-10T16:28:57.11Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 8415754,
+            "seller_sku": "66F24A7E2A132B5",
+            "channel_id": 125294,
+            "channel_name": "c8aeb931a3584f069bc2a993a0ec3839",
+            "platform": "ShipStation",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "928631642",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 836952381,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2025-03-10T15:57:20.953Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": "USD",
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "unit": "inch",
+          "is_locked": false,
+          "source": "UserEntry"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": "",
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 836952381,
+        "inventory": {
+          "inventory_id": 20142162,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": true,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Particle Night Scalp Booster",
+        "packaging_material_type": null,
+        "packaging_requirement": null,
+        "return_preferences": {
+          "primary_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "backup_action": null,
+          "instructions": null,
+          "return_to_sender_primary_action": null,
+          "return_to_sender_backup_action": null
+        },
+        "sku": "66F24A7E2A132B5",
+        "status": "Inactive",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2025-11-25T18:25:01.905Z",
+        "weight": {
+          "weight": 0.0,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 7584646,
+    "name": "Particle Gravite Bundle",
+    "type": "Bundle",
+    "user_id": 288109,
+    "created_on": "2025-03-04T10:04:09.377Z",
+    "updated_on": "2025-10-09T20:56:22.608Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 8378814,
+            "seller_sku": "0ADF6455725EB77",
+            "channel_id": 125294,
+            "channel_name": "e333a21d38b04d13a8ab77031a1944e5",
+            "platform": "ShipStation",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "923787958",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 836893502,
+            "is_inventory_sync_enabled": true
+          },
+          {
+            "id": 8429351,
+            "seller_sku": "2769533",
+            "channel_id": 180705,
+            "channel_name": "Privileged Access Token Wednesday, January 10, 2024",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 836975864,
+            "is_inventory_sync_enabled": true
+          },
+          {
+            "id": 9967972,
+            "seller_sku": "2769533",
+            "channel_id": 348476,
+            "channel_name": "Order Desk: Particle",
+            "platform": "Api",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 1352693128,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [
+          {
+            "product_id": 6210121,
+            "variant_id": 290792717,
+            "variant_name": "Particle Gravite Deodorant ",
+            "variant_sku": "860012469710",
+            "quantity": 1
+          },
+          {
+            "product_id": 2706751,
+            "variant_id": 15626387,
+            "variant_name": "Particle Gravite Cologne",
+            "variant_sku": "860005339785",
+            "quantity": 1
+          }
+        ],
+        "created_on": "2025-03-04T10:04:09.376Z",
+        "customs": null,
+        "dimension": null,
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": null,
+            "suffix": null,
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": null,
+          "fnsku_label_url": null,
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 836893502,
+        "inventory": {
+          "inventory_id": 20111163,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": null,
+        "name": "Particle Gravite Bundle",
+        "packaging_material_type": null,
+        "packaging_requirement": null,
+        "return_preferences": null,
+        "sku": "2769533",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2025-10-09T20:56:22.608Z",
+        "weight": null,
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  },
+  {
+    "id": 7489764,
+    "name": "Beat Back Aging System",
+    "type": "Regular",
+    "user_id": 288109,
+    "created_on": "2025-02-17T14:57:40.701Z",
+    "updated_on": "2026-03-10T16:28:57.164Z",
+    "taxonomy": null,
+    "variants": [
+      {
+        "barcodes": [],
+        "channel_metadata": [
+          {
+            "id": 8272530,
+            "seller_sku": "E2A0BDD71CD4050",
+            "channel_id": 125294,
+            "channel_name": "c8aeb931a3584f069bc2a993a0ec3839",
+            "platform": "ShipStation",
+            "price": 0.0,
+            "currency": null,
+            "platform_identifier": "913103888",
+            "platform_inventory_item_id": "",
+            "legacy_product_id": 836739291,
+            "is_inventory_sync_enabled": true
+          }
+        ],
+        "allergen_information": null,
+        "reviews_pending": [],
+        "associated_bundles": [],
+        "bundle_definition": [],
+        "created_on": "2025-02-17T14:57:40.363Z",
+        "customs": {
+          "hs_tariff_code": "",
+          "country_code_of_origin": "",
+          "value": null,
+          "currency": "USD",
+          "description": "",
+          "is321_eligible": false
+        },
+        "dimension": {
+          "length": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "unit": "inch",
+          "is_locked": false,
+          "source": "UserEntry"
+        },
+        "fulfillment_settings": {
+          "requires_prop65": false,
+          "serial_scan": {
+            "is_enabled": false,
+            "prefix": "",
+            "suffix": "",
+            "exact_character_length": null
+          },
+          "dangerous_goods": false,
+          "msds_url": "",
+          "fnsku_label_url": null,
+          "is_case_pick": false,
+          "is_bpm_parcel": false
+        },
+        "gtin": "",
+        "id": 836739291,
+        "inventory": {
+          "inventory_id": 20019196,
+          "on_hand_qty": 0
+        },
+        "is_digital": false,
+        "lot_information": {
+          "is_lot": true,
+          "minimum_shelf_life_days": null
+        },
+        "name": "Beat Back Aging System",
+        "packaging_material_type": null,
+        "packaging_requirement": null,
+        "return_preferences": {
+          "primary_action": {
+            "id": 3,
+            "name": "Dispose"
+          },
+          "backup_action": null,
+          "instructions": null,
+          "return_to_sender_primary_action": null,
+          "return_to_sender_backup_action": null
+        },
+        "sku": "E2A0BDD71CD4050",
+        "status": "Active",
+        "upc": "",
+        "is_image_uploaded": false,
+        "updated_on": "2025-08-14T22:22:37.241Z",
+        "weight": {
+          "weight": 0.0,
+          "unit": "oz"
+        },
+        "additional_hazmat_attributes": null,
+        "merge_children": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "small-shipper",
+    "name": "Small Shipper",
+    "description": "Single-item and small orders",
+    "dimensions": {
+      "length": 6.1024,
+      "width": 5.9055,
+      "height": 2.5591
+    },
+    "dimensions_cm": {
+      "length": 15.5,
+      "width": 15.0,
+      "height": 6.5
+    },
+    "unit": "in",
+    "dimension_type": "inner",
+    "inner_volume_cu_in": 92.25,
+    "inventory_sku": "PO25000136",
+    "aliases": ["Particle One Unit Shipper Box", "One Unit Shipper"],
+    "source": "Logistics team — inside specs (cm converted to in)"
+  },
+  {
+    "id": "large-shipper",
+    "name": "Large Shipper",
+    "description": "Multi-item and larger orders",
+    "dimensions": {
+      "length": 8.6614,
+      "width": 6.6929,
+      "height": 3.1496
+    },
+    "dimensions_cm": {
+      "length": 22.0,
+      "width": 17.0,
+      "height": 8.0
+    },
+    "unit": "in",
+    "dimension_type": "inner",
+    "inner_volume_cu_in": 182.55,
+    "inventory_sku": null,
+    "aliases": [],
+    "source": "Logistics team — inside specs (cm converted to in)"
+  }
+]
