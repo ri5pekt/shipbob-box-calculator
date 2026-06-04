@@ -25,18 +25,18 @@
     "name": "Large Shipper",
     "description": "Multi-item and larger orders",
     "dimensions": {
-      "length": 8.6614,
-      "width": 6.8898,
-      "height": 3.3465
+      "length": 8.4646,
+      "width": 6.6929,
+      "height": 3.1496
     },
     "dimensions_cm": {
-      "length": 22.0,
-      "width": 17.5,
-      "height": 8.5
+      "length": 21.5,
+      "width": 17.0,
+      "height": 8.0
     },
     "unit": "in",
     "dimension_type": "inner",
-    "inner_volume_cu_in": 199.70,
+    "inner_volume_cu_in": 178.44,
     "inventory_sku": null,
     "aliases": [],
     "source": "Logistics team — inside specs (cm converted to in)"
