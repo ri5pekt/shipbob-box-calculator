@@ -4,9 +4,9 @@
     "title": "Particle Face Cream",
     "sku": "751889384926",
     "dimensions": {
-      "length": 5.9843,
-      "width": 2.4409,
-      "height": 2.4409
+      "length": 6.1,
+      "width": 2.56,
+      "height": 2.56
     },
     "unit": "in",
     "category": "jar",
@@ -25,15 +25,15 @@
     "title": "Particle 43 Anti-Aging Shaving Gel",
     "sku": "00860012469772",
     "dimensions": {
-      "length": 7.2,
-      "width": 2.15,
-      "height": 2.13
+      "length": 6.0,
+      "width": 2.1,
+      "height": 2.1
     },
     "unit": "in",
     "category": "tube",
     "dimensions_source": "shipbob_api_validated",
     "unit_volume_cu_in": 29.25,
-    "unit_weight_lbs": 0.51,
+    "unit_weight_lbs": 0.5417,
     "inventory_sku": "70110700",
     "dim_type": "Case",
     "dim_source": "Case",
@@ -46,9 +46,9 @@
     "title": "Particle Instant Eye Firming Cream",
     "sku": "00860012469796",
     "dimensions": {
-      "length": 4.15,
-      "width": 2.5,
-      "height": 2.4
+      "length": 4.1,
+      "width": 2.2,
+      "height": 2.2
     },
     "unit": "in",
     "category": "tube",
@@ -63,9 +63,9 @@
     "title": "Particle Face Shield",
     "sku": "860010338483",
     "dimensions": {
-      "length": 6.3,
-      "width": 1.85,
-      "height": 1.35
+      "length": 6.1,
+      "width": 1.38,
+      "height": 1.38
     },
     "unit": "in",
     "category": "bottle",
@@ -73,22 +73,22 @@
     "shipbob_inventory_id": 18186501,
     "shipbob_inventory_name": "Particle Invisible Sunscreen",
     "unit_weight_oz": 4.0,
-    "unit_weight_lbs": 0.25
+    "unit_weight_lbs": 0.2875
   },
   {
     "id": 100362,
     "title": "Particle Face Wash",
     "sku": "636665869647",
     "dimensions": {
-      "length": 6.5,
-      "width": 2.0,
-      "height": 2.0
+      "length": 6.61,
+      "width": 1.97,
+      "height": 1.97
     },
     "unit": "in",
     "category": "bottle",
     "dimensions_source": "shipbob_api_validated",
     "unit_volume_cu_in": 28.0,
-    "unit_weight_lbs": 0.5,
+    "unit_weight_lbs": 0.4875,
     "inventory_sku": "70010150",
     "dim_type": "Case",
     "dim_source": "Case",
@@ -122,15 +122,15 @@
     "title": "Particle Lip Balm",
     "sku": "00860012469789",
     "dimensions": {
-      "length": 3.05,
-      "width": 0.9,
-      "height": 0.85
+      "length": 3.0,
+      "width": 0.8,
+      "height": 0.8
     },
     "unit": "in",
     "category": "stick",
     "dimensions_source": "shipbob_api_validated",
     "unit_volume_cu_in": 3.0,
-    "unit_weight_lbs": 0.0581,
+    "unit_weight_lbs": 0.0583,
     "inventory_sku": null,
     "dim_type": "Case",
     "dim_source": "Case",
@@ -164,15 +164,15 @@
     "title": "Particle Varros",
     "sku": "00860012469765",
     "dimensions": {
-      "length": 5.85,
-      "width": 3.6,
-      "height": 2.15
+      "length": 5.5,
+      "width": 2.0,
+      "height": 3.5
     },
     "unit": "in",
     "category": "bottle",
     "dimensions_source": "shipbob_api_validated",
     "unit_volume_cu_in": 54.8571,
-    "unit_weight_lbs": 0.94,
+    "unit_weight_lbs": 1.0,
     "inventory_sku": null,
     "dim_type": "Case",
     "dim_source": "Case",
@@ -185,15 +185,15 @@
     "title": "Particle Hand Cream",
     "sku": "00860014497216",
     "dimensions": {
-      "length": 6.2,
-      "width": 2.45,
-      "height": 2.43
+      "length": 6.0,
+      "width": 2.3,
+      "height": 2.3
     },
     "unit": "in",
     "category": "tube",
     "dimensions_source": "shipbob_api_validated",
     "unit_volume_cu_in": 43.75,
-    "unit_weight_lbs": 0.3981,
+    "unit_weight_lbs": 0.4167,
     "inventory_sku": null,
     "dim_type": "Case",
     "dim_source": "Case",
@@ -206,9 +206,9 @@
     "title": "Particle Gravité Deodorant",
     "sku": "860012469710",
     "dimensions": {
-      "length": 6.3,
-      "width": 2.17,
-      "height": 2.15
+      "length": 6.2,
+      "width": 2.0,
+      "height": 2.0
     },
     "unit": "in",
     "category": "stick",
@@ -216,22 +216,22 @@
     "shipbob_inventory_id": 19339631,
     "shipbob_inventory_name": "Particle Gravite Deodorant",
     "unit_weight_oz": 6.16,
-    "unit_weight_lbs": 0.385
+    "unit_weight_lbs": 0.176
   },
   {
     "id": 1450671,
     "title": "Particle Ab Firming Cream",
     "sku": "860010338421",
     "dimensions": {
-      "length": 6.0,
-      "width": 2.87,
-      "height": 2.85
+      "length": 5.75,
+      "width": 2.75,
+      "height": 2.75
     },
     "unit": "in",
     "category": "jar",
     "dimensions_source": "shipbob_api_validated",
     "unit_volume_cu_in": 43.4844,
-    "unit_weight_lbs": 0.365,
+    "unit_weight_lbs": 0.3563,
     "inventory_sku": null,
     "dim_type": "Unit",
     "dim_source": "Unit",
@@ -286,15 +286,15 @@
     "title": "Particle Anti-Gray Serum",
     "sku": "860012469703",
     "dimensions": {
-      "length": 5.25,
-      "width": 2.25,
-      "height": 2.25
+      "length": 5.3,
+      "width": 1.4,
+      "height": 1.4
     },
     "unit": "in",
     "category": "dropper",
     "dimensions_source": "shipbob_api_validated",
     "unit_volume_cu_in": 31.5,
-    "unit_weight_lbs": 0.375,
+    "unit_weight_lbs": 0.2875,
     "inventory_sku": "70110500",
     "dim_type": "Case",
     "dim_source": "Case",
@@ -307,9 +307,9 @@
     "title": "Particle Hair Revival Kit",
     "sku": "860005339730",
     "dimensions": {
-      "length": 6.69,
-      "width": 5.91,
-      "height": 2.76
+      "length": 5.91,
+      "width": 6.69,
+      "height": 2.7
     },
     "unit": "in",
     "category": "set",
@@ -370,9 +370,9 @@
     "title": "Particle Infinite Male",
     "sku": "860012469727",
     "dimensions": {
-      "length": 4.15,
-      "width": 1.93,
-      "height": 1.93
+      "length": 4.3,
+      "width": 2.0,
+      "height": 2.0
     },
     "unit": "in",
     "category": "supplement",
@@ -387,15 +387,15 @@
     "title": "Particle Skin Vitamin Gummies",
     "sku": "860005339747",
     "dimensions": {
-      "length": 2.27,
-      "width": 2.25,
-      "height": 4.45
+      "length": 4.6,
+      "width": 2.4,
+      "height": 2.4
     },
     "unit": "in",
     "category": "supplement",
     "dimensions_source": "shipbob_api_validated",
     "unit_volume_cu_in": 24.4444,
-    "unit_weight_lbs": 0.4,
+    "unit_weight_lbs": 0.2101,
     "inventory_sku": "11623234",
     "dim_type": "Pallet↓",
     "dim_source": "Pallet↓",
@@ -408,15 +408,15 @@
     "title": "Particle Hair Vitamin Gummies",
     "sku": "860005339761",
     "dimensions": {
-      "length": 2.27,
-      "width": 2.27,
-      "height": 4.45
+      "length": 4.6,
+      "width": 2.4,
+      "height": 2.4
     },
     "unit": "in",
     "category": "supplement",
     "dimensions_source": "shipbob_api_validated",
     "unit_volume_cu_in": 24.4444,
-    "unit_weight_lbs": 0.405,
+    "unit_weight_lbs": 0.2101,
     "inventory_sku": "11623233",
     "dim_type": "Pallet↓",
     "dim_source": "Pallet↓",
