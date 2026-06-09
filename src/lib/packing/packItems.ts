@@ -17,13 +17,15 @@ const FLAT_ROTATIONS = [
  */
 const PADDING = 0.03;
 
+const round4 = (n: number) => Math.round(n * 10000) / 10000;
+
 function paddedBox(box: Box) {
   const { length, width, height } = box.dimensions;
   return {
     name: box.id,
-    width: length + PADDING,
-    height: height + PADDING,
-    depth: width + PADDING,
+    width:  round4(length + PADDING),
+    height: round4(height + PADDING),
+    depth:  round4(width  + PADDING),
     maxWeight: 99999,
   };
 }

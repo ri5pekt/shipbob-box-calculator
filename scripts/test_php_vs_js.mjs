@@ -71,9 +71,9 @@ function jsPack(skus) {
     const d = box.dimensions;
     const bin = {
       name: box.id,
-      width:     d.length + PADDING,
-      height:    d.height + PADDING,
-      depth:     d.width  + PADDING,
+      width:  Math.round((d.length + PADDING) * 10000) / 10000,
+      height: Math.round((d.height + PADDING) * 10000) / 10000,
+      depth:  Math.round((d.width  + PADDING) * 10000) / 10000,
       maxWeight: 99999,
     };
     const result = pack3D({ bins: [bin], items });
