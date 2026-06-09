@@ -22,11 +22,65 @@ header('Access-Control-Allow-Origin: *');
 header('Access-Control-Allow-Headers: Content-Type');
 
 // ─────────────────────────────────────────────────────────────────────────────
-// 1.  Data files (relative to this script)
+// 1.  Hardcoded data (products + boxes) — last updated 2026-06-08
 // ─────────────────────────────────────────────────────────────────────────────
-$BASE = dirname(__DIR__);
-$PRODUCTS = json_decode(file_get_contents("$BASE/data/products.json"), true);
-$BOXES    = json_decode(file_get_contents("$BASE/data/boxes.json"),    true);
+$BOXES = [
+    [
+        'id'         => 'small-shipper',
+        'name'       => 'Small Shipper',
+        'dimensions' => ['length' => 6.1024, 'width' => 6.1024, 'height' => 2.5591],
+    ],
+    [
+        'id'         => 'large-shipper',
+        'name'       => 'Large Shipper',
+        'dimensions' => ['length' => 8.4646, 'width' => 6.6929, 'height' => 3.1496],
+    ],
+];
+
+$PRODUCTS = [
+    // ── Individual products ──────────────────────────────────────────────────
+    ['id'=>7,       'title'=>'Particle Face Cream',               'sku'=>'751889384926',    'dimensions'=>['length'=>6.1,  'width'=>2.56, 'height'=>2.56], 'unit_weight_lbs'=>0.2875],
+    ['id'=>2299802, 'title'=>'Particle 43 Anti-Aging Shaving Gel','sku'=>'00860012469772',  'dimensions'=>['length'=>6.0,  'width'=>2.1,  'height'=>2.1],  'unit_weight_lbs'=>0.5417],
+    ['id'=>3175815, 'title'=>'Particle Instant Eye Firming Cream','sku'=>'00860012469796',  'dimensions'=>['length'=>4.1,  'width'=>2.2,  'height'=>2.2],  'unit_weight_lbs'=>0.1669],
+    ['id'=>3546870, 'title'=>'Particle Face Shield',              'sku'=>'860010338483',    'dimensions'=>['length'=>6.1,  'width'=>1.38, 'height'=>1.38], 'unit_weight_lbs'=>0.2875],
+    ['id'=>100362,  'title'=>'Particle Face Wash',                'sku'=>'636665869647',    'dimensions'=>['length'=>6.61, 'width'=>1.97, 'height'=>1.97], 'unit_weight_lbs'=>0.4875],
+    ['id'=>100370,  'title'=>'Particle Face Mask',                'sku'=>'636665869654',    'dimensions'=>['length'=>3.66, 'width'=>2.8,  'height'=>2.8],  'unit_weight_lbs'=>0.6937],
+    ['id'=>3611263, 'title'=>'Particle Lip Balm',                 'sku'=>'00860012469789',  'dimensions'=>['length'=>3.0,  'width'=>0.8,  'height'=>0.8],  'unit_weight_lbs'=>0.0583],
+    ['id'=>1646173, 'title'=>'Particle Gravité',                  'sku'=>'860005339785',    'dimensions'=>['length'=>5.6,  'width'=>5.0,  'height'=>2.5],  'unit_weight_lbs'=>0.9313],
+    ['id'=>3276357, 'title'=>'Particle Varros',                   'sku'=>'00860012469765',  'dimensions'=>['length'=>5.5,  'width'=>2.0,  'height'=>3.5],  'unit_weight_lbs'=>1.0],
+    ['id'=>3008280, 'title'=>'Particle Hand Cream',               'sku'=>'00860014497216',  'dimensions'=>['length'=>6.0,  'width'=>2.3,  'height'=>2.3],  'unit_weight_lbs'=>0.4167],
+    ['id'=>2475444, 'title'=>'Particle Gravité Deodorant',        'sku'=>'860012469710',    'dimensions'=>['length'=>6.2,  'width'=>2.0,  'height'=>2.0],  'unit_weight_lbs'=>0.176],
+    ['id'=>1450671, 'title'=>'Particle Ab Firming Cream',         'sku'=>'860010338421',    'dimensions'=>['length'=>5.75, 'width'=>2.75, 'height'=>2.75], 'unit_weight_lbs'=>0.3563],
+    ['id'=>1495139, 'title'=>'Particle Neck Cream',               'sku'=>'860005339778',    'dimensions'=>['length'=>6.1,  'width'=>2.62, 'height'=>2.62], 'unit_weight_lbs'=>0.2375],
+    ['id'=>216919,  'title'=>'Particle Body Wash',                'sku'=>'636665869678',    'dimensions'=>['length'=>6.81, 'width'=>3.15, 'height'=>1.97], 'unit_weight_lbs'=>1.0375],
+    ['id'=>1860895, 'title'=>'Particle Anti-Gray Serum',          'sku'=>'860012469703',    'dimensions'=>['length'=>5.3,  'width'=>1.4,  'height'=>1.4],  'unit_weight_lbs'=>0.2875],
+    ['id'=>570671,  'title'=>'Particle Hair Revival Kit',         'sku'=>'860005339730',    'dimensions'=>['length'=>5.91, 'width'=>6.69, 'height'=>2.7],  'unit_weight_lbs'=>0.425],
+    ['id'=>216928,  'title'=>'Particle Hair Thickening Shampoo',  'sku'=>'636665869661',    'dimensions'=>['length'=>6.81, 'width'=>3.15, 'height'=>1.97], 'unit_weight_lbs'=>1.0875],
+    ['id'=>616215,  'title'=>'Particle Beard Oil',                'sku'=>'860005339723',    'dimensions'=>['length'=>4.13, 'width'=>2.48, 'height'=>2.48], 'unit_weight_lbs'=>0.2188],
+    ['id'=>2293541, 'title'=>'Particle Infinite Male',            'sku'=>'860012469727',    'dimensions'=>['length'=>4.3,  'width'=>2.0,  'height'=>2.0],  'unit_weight_lbs'=>0.1819],
+    ['id'=>1077388, 'title'=>'Particle Skin Vitamin Gummies',     'sku'=>'860005339747',    'dimensions'=>['length'=>4.6,  'width'=>2.4,  'height'=>2.4],  'unit_weight_lbs'=>0.2101],
+    ['id'=>1068419, 'title'=>'Particle Hair Vitamin Gummies',     'sku'=>'860005339761',    'dimensions'=>['length'=>4.6,  'width'=>2.4,  'height'=>2.4],  'unit_weight_lbs'=>0.2101],
+    ['id'=>3713630, 'title'=>'Particle Scalp Massager',           'sku'=>'9162027',         'dimensions'=>['length'=>3.0,  'width'=>3.5,  'height'=>3.0],  'unit_weight_lbs'=>0.1584],
+    ['id'=>3713631, 'title'=>'Particle Comb',                     'sku'=>'70113000',        'dimensions'=>['length'=>0.1,  'width'=>7.2,  'height'=>1.5],  'unit_weight_lbs'=>1.0],
+    ['id'=>3713632, 'title'=>'Particle Nose Trimmer',             'sku'=>'70114000',        'dimensions'=>['length'=>1.3,  'width'=>2.5,  'height'=>2.0],  'unit_weight_lbs'=>1.0],
+    ['id'=>3713633, 'title'=>'Particle Gravité Tester 1.5ml',    'sku'=>'70117000',        'dimensions'=>['length'=>0.3,  'width'=>4.0,  'height'=>2.3],  'unit_weight_lbs'=>1.0],
+    ['id'=>3713634, 'title'=>'Particle Shaving Cream Stand',      'sku'=>'00860012469758',  'dimensions'=>['length'=>1.5,  'width'=>8.0,  'height'=>4.0],  'unit_weight_lbs'=>1.0],
+    // ── Bundles ──────────────────────────────────────────────────────────────
+    ['id'=>2941634, 'title'=>'Particle Lady Killer Kit',          'sku'=>'77000011',        'components'=>[['sku'=>'751889384926','quantity'=>1],['sku'=>'860005339785','quantity'=>1],['sku'=>'860012469710','quantity'=>1],['sku'=>'636665869661','quantity'=>1]]],
+    ['id'=>1813624, 'title'=>'Starter Bundle',                    'sku'=>'9162025',         'components'=>[['sku'=>'751889384926','quantity'=>1],['sku'=>'636665869647','quantity'=>1],['sku'=>'860005339778','quantity'=>1]]],
+    ['id'=>250223,  'title'=>'Essential Bundle',                  'sku'=>'123456',          'components'=>[['sku'=>'751889384926','quantity'=>1],['sku'=>'636665869654','quantity'=>1],['sku'=>'636665869647','quantity'=>1]]],
+    ['id'=>2769533, 'title'=>'Particle Gravité Bundle',           'sku'=>'2769533',         'components'=>[['sku'=>'860012469710','quantity'=>1],['sku'=>'860005339785','quantity'=>1]]],
+    ['id'=>250209,  'title'=>'Advanced Bundle',                   'sku'=>'223456',          'components'=>[['sku'=>'751889384926','quantity'=>1],['sku'=>'636665869654','quantity'=>1],['sku'=>'636665869647','quantity'=>1],['sku'=>'636665869661','quantity'=>1],['sku'=>'636665869678','quantity'=>1]]],
+    ['id'=>616306,  'title'=>'Power Shower Set',                  'sku'=>'9162021',         'components'=>[['sku'=>'636665869661','quantity'=>1],['sku'=>'636665869678','quantity'=>1]]],
+    ['id'=>1607485, 'title'=>'Hair Growth Bundle',                'sku'=>'816202112',       'components'=>[['sku'=>'636665869661','quantity'=>1],['sku'=>'860005339730','quantity'=>1],['sku'=>'860005339761','quantity'=>1]]],
+    ['id'=>2769100, 'title'=>"Particle Golfer's Bundle",          'sku'=>'2769100',         'components'=>[['sku'=>'751889384926','quantity'=>1],['sku'=>'860010338483','quantity'=>1]]],
+    ['id'=>3279775, 'title'=>"Particle Father's Day Gift Bundle", 'sku'=>'77000013',        'components'=>[['sku'=>'751889384926','quantity'=>1],['sku'=>'636665869661','quantity'=>1],['sku'=>'00860012469772','quantity'=>1],['sku'=>'860005339785','quantity'=>1]]],
+    ['id'=>3311073, 'title'=>'Bold Moves Bundle',                 'sku'=>'860014695551',    'components'=>[['sku'=>'860005339785','quantity'=>1],['sku'=>'00860012469765','quantity'=>1]]],
+    ['id'=>3536797, 'title'=>"Men's Gift Bundle",                 'sku'=>'77000015',        'components'=>[['sku'=>'751889384926','quantity'=>1],['sku'=>'00860012469772','quantity'=>1],['sku'=>'860012469710','quantity'=>1]]],
+    ['id'=>3575372, 'title'=>'Dark Spot Remover Set',             'sku'=>'77000017',        'components'=>[['sku'=>'751889384926','quantity'=>1],['sku'=>'00860014497216','quantity'=>1]]],
+    ['id'=>3713629, 'title'=>'Head Turner Set',                   'sku'=>'77000013',        'components'=>[['sku'=>'751889384926','quantity'=>1],['sku'=>'860005339785','quantity'=>1]]],
+    ['id'=>3575379, 'title'=>'The Smooth Skin Set',               'sku'=>'77000016',        'components'=>[['sku'=>'751889384926','quantity'=>1],['sku'=>'00860012469772','quantity'=>1]]],
+];
 
 // ─────────────────────────────────────────────────────────────────────────────
 // 2.  Parse request
@@ -416,40 +470,60 @@ function pack3D(array $rawBins, array $rawItems): array {
 // ─────────────────────────────────────────────────────────────────────────────
 // 5.  Try each box individually (smallest → largest), same as the JS app
 // ─────────────────────────────────────────────────────────────────────────────
+
+// SKUs that use the dedicated single-item box when ordered alone.
+const SINGLE_BOX_SKUS = ['860005339785', '751889384926']; // Gravité, Face Cream
+
 $totalItems = count($items);
 $boxResult  = null;
 $message    = '';
 
-foreach ($BOXES as $box) {
-    $d   = $box['dimensions'];
-    $bin = [[
-        'name'      => $box['id'],
-        // Same mapping as paddedBox() in packItems.ts.
-        // round(..., 4) prevents float subtraction artifacts from inflating
-        // the factor vs what JS computes.
-        'width'     => round((float)$d['length'] - PADDING, 4),
-        'height'    => round((float)$d['height'] - PADDING, 4),
-        'depth'     => round((float)$d['width']  - PADDING, 4),
-        'maxWeight' => 99999,
-    ]];
+// single_shipping_box: exactly one unit of Gravité or Face Cream
+// array_keys() casts numeric-looking strings to int — strval() restores them
+$singleSkus = array_map('strval', array_keys($mergedLines));
+$firstLine  = reset($mergedLines);  // first (and possibly only) merged line
+if (
+    $totalItems === 1 &&
+    count($singleSkus) === 1 &&
+    in_array($singleSkus[0], SINGLE_BOX_SKUS, true) &&
+    $firstLine['qty'] === 1
+) {
+    $boxResult = 'single_shipping_box';
+    $message   = "1 item fits in Single Shipping Box.";
+}
 
-    $result     = pack3D($bin, $items);
-    $unfitCount = count($result['unfitItems']);
+if (!$boxResult) {
+    foreach ($BOXES as $box) {
+        $d   = $box['dimensions'];
+        $bin = [[
+            'name'      => $box['id'],
+            // Same mapping as paddedBox() in packItems.ts.
+            // round(..., 4) prevents float subtraction artifacts from inflating
+            // the factor vs what JS computes.
+        'width'     => round((float)$d['length'] + PADDING, 4),
+        'height'    => round((float)$d['height'] + PADDING, 4),
+        'depth'     => round((float)$d['width']  + PADDING, 4),
+            'maxWeight' => 99999,
+        ]];
 
-    if ($unfitCount === 0) {
-        $id        = $box['id'];
-        $boxResult = $id === 'small-shipper' ? 'small_shipper' : 'large_shipper';
-        $label     = $id === 'small-shipper' ? 'Small Shipper' : 'Large Shipper';
-        $message   = "All $totalItems item(s) fit in $label.";
-        break;
+        $result     = pack3D($bin, $items);
+        $unfitCount = count($result['unfitItems']);
+
+        if ($unfitCount === 0) {
+            $id        = $box['id'];
+            $boxResult = $id === 'small-shipper' ? 'single_branded_shipping_box' : 'regular_shipping_box';
+            $label     = $id === 'small-shipper' ? 'Single Branded Shipping Box' : 'Regular Shipping Box';
+            $message   = "All $totalItems item(s) fit in $label.";
+            break;
+        }
     }
 }
 
 if (!$boxResult) {
-    $boxResult = 'bigger_shipper';
+    $boxResult = 'bigger_shipping_box';
     $message   = "$totalItems item(s) do not fit in any available box.";
 }
-$fittedCount = ($boxResult !== 'bigger_shipper') ? $totalItems : 0;
+$fittedCount = ($boxResult !== 'bigger_shipping_box') ? $totalItems : 0;
 $unfitCount  = $totalItems - $fittedCount;
 
 echo json_encode([

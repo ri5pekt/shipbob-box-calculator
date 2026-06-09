@@ -22,6 +22,9 @@ const PADDING = 0.03;
 const FLAT_CATEGORIES = new Set(['bundle', 'kit']);
 // For test: all items use all 6 rotations (flat categories omitted for simplicity)
 
+// SKUs that get the dedicated single-item box when ordered alone
+const SINGLE_BOX_SKUS = new Set(['860005339785', '751889384926']); // Gravité, Face Cream
+
 const productBySku = Object.fromEntries(products.map(p => [p.sku, p]));
 
 function expandBundles(skus) {
@@ -47,6 +50,12 @@ function jsPack(skus) {
   const orderLines = expandBundles(skus);
   if (!orderLines.length) return 'error';
 
+  // single_shipping_box: exactly 1 unit of Gravité or Face Cream
+  if (orderLines.length === 1 && orderLines[0].quantity === 1 &&
+      SINGLE_BOX_SKUS.has(orderLines[0].product.sku)) {
+    return 'single_shipping_box';
+  }
+
   const items = orderLines.flatMap(({ product: p, quantity }) =>
     Array.from({ length: quantity }, (_, i) => ({
       name: `${p.id}__${i}`,
@@ -62,17 +71,17 @@ function jsPack(skus) {
     const d = box.dimensions;
     const bin = {
       name: box.id,
-      width:     d.length - PADDING,
-      height:    d.height - PADDING,
-      depth:     d.width  - PADDING,
+      width:     d.length + PADDING,
+      height:    d.height + PADDING,
+      depth:     d.width  + PADDING,
       maxWeight: 99999,
     };
     const result = pack3D({ bins: [bin], items });
     if (result.unfitItems.length === 0) {
-      return box.id === 'small-shipper' ? 'small_shipper' : 'large_shipper';
+      return box.id === 'small-shipper' ? 'single_branded_shipping_box' : 'regular_shipping_box';
     }
   }
-  return 'bigger_shipper';
+  return 'bigger_shipping_box';
 }
 
 // ── PHP packing via CLI ───────────────────────────────────────────────────────
@@ -165,6 +174,64 @@ testCases.push({ label: 'Face Cream + Gravite',       skus: ['751889384926', '86
 testCases.push({ label: 'Body Wash + Shampoo',        skus: ['636665869678', '636665869661'] });
 testCases.push({ label: '4x Lip Balm',                skus: [{ sku: '00860012469789', qty: 4 }] });
 testCases.push({ label: 'Gravite + Varros',           skus: ['860005339785', '00860012469765'] });
+
+// ── 50 additional test cases ──────────────────────────────────────────────────
+// Quantities of small items
+testCases.push({ label: '2x Lip Balm',                       skus: [{ sku: '00860012469789', qty: 2 }] });
+testCases.push({ label: '3x Lip Balm',                       skus: [{ sku: '00860012469789', qty: 3 }] });
+testCases.push({ label: '6x Lip Balm',                       skus: [{ sku: '00860012469789', qty: 6 }] });
+testCases.push({ label: '10x Lip Balm',                      skus: [{ sku: '00860012469789', qty: 10 }] });
+testCases.push({ label: '3x Gravité Tester',                 skus: [{ sku: '70117000', qty: 3 }] });
+testCases.push({ label: '5x Gravité Tester',                 skus: [{ sku: '70117000', qty: 5 }] });
+testCases.push({ label: '3x Nose Trimmer',                   skus: [{ sku: '70114000', qty: 3 }] });
+testCases.push({ label: '4x Nose Trimmer',                   skus: [{ sku: '70114000', qty: 4 }] });
+testCases.push({ label: '3x Beard Oil',                      skus: [{ sku: '860005339723', qty: 3 }] });
+testCases.push({ label: '4x Beard Oil',                      skus: [{ sku: '860005339723', qty: 4 }] });
+// Quantities of medium items
+testCases.push({ label: '2x Face Cream',                     skus: [{ sku: '751889384926', qty: 2 }] });
+testCases.push({ label: '3x Face Cream',                     skus: [{ sku: '751889384926', qty: 3 }] });
+testCases.push({ label: '2x Gravité (cologne)',              skus: [{ sku: '860005339785', qty: 2 }] });
+testCases.push({ label: '2x Hand Cream',                     skus: [{ sku: '00860014497216', qty: 2 }] });
+testCases.push({ label: '3x Hand Cream',                     skus: [{ sku: '00860014497216', qty: 3 }] });
+testCases.push({ label: '2x Anti-Gray Serum',                skus: [{ sku: '860012469703', qty: 2 }] });
+testCases.push({ label: '4x Anti-Gray Serum',                skus: [{ sku: '860012469703', qty: 4 }] });
+testCases.push({ label: '5x Infinite Male',                  skus: [{ sku: '860012469727', qty: 5 }] });
+testCases.push({ label: '6x Infinite Male',                  skus: [{ sku: '860012469727', qty: 6 }] });
+testCases.push({ label: '5x Skin Vitamin Gummies',           skus: [{ sku: '860005339747', qty: 5 }] });
+// Quantities of large items
+testCases.push({ label: '2x Body Wash',                      skus: [{ sku: '636665869678', qty: 2 }] });
+testCases.push({ label: '3x Body Wash',                      skus: [{ sku: '636665869678', qty: 3 }] });
+testCases.push({ label: '2x Shampoo',                        skus: [{ sku: '636665869661', qty: 2 }] });
+testCases.push({ label: '2x Face Wash',                      skus: [{ sku: '636665869647', qty: 2 }] });
+testCases.push({ label: '3x Face Wash',                      skus: [{ sku: '636665869647', qty: 3 }] });
+// Two-product combos
+testCases.push({ label: 'Face Cream + Shaving Gel',          skus: ['751889384926', '00860012469772'] });
+testCases.push({ label: 'Face Wash + Body Wash',             skus: ['636665869647', '636665869678'] });
+testCases.push({ label: 'Gravité + Deodorant',               skus: ['860005339785', '860012469710'] });
+testCases.push({ label: 'Eye Cream + Lip Balm',              skus: ['00860012469796', '00860012469789'] });
+testCases.push({ label: 'Hand Cream + Face Cream',           skus: ['00860014497216', '751889384926'] });
+testCases.push({ label: 'Beard Oil + Anti-Gray Serum',       skus: ['860005339723', '860012469703'] });
+testCases.push({ label: 'Comb + Nose Trimmer',               skus: ['70113000', '70114000'] });
+testCases.push({ label: 'Scalp Massager + Comb',             skus: ['9162027', '70113000'] });
+testCases.push({ label: 'Shaving Cream Stand + Shaving Gel', skus: ['00860012469758', '00860012469772'] });
+testCases.push({ label: 'Face Mask + Neck Cream',            skus: ['636665869654', '860005339778'] });
+testCases.push({ label: '2x Varros',                         skus: [{ sku: '00860012469765', qty: 2 }] });
+testCases.push({ label: 'Face Cream + Ab Firming Cream',     skus: ['751889384926', '860010338421'] });
+// Three-product combos
+testCases.push({ label: 'Face Cream + Face Wash + Face Mask',     skus: ['751889384926', '636665869647', '636665869654'] });
+testCases.push({ label: 'Gravité + Face Cream + Face Wash',       skus: ['860005339785', '751889384926', '636665869647'] });
+testCases.push({ label: 'Comb + Nose Trimmer + Gravité Tester',   skus: ['70113000', '70114000', '70117000'] });
+testCases.push({ label: 'Anti-Gray + Beard Oil + Face Cream',     skus: ['860012469703', '860005339723', '751889384926'] });
+testCases.push({ label: 'Infinite Male + Skin + Hair Gummies',    skus: ['860012469727', '860005339747', '860005339761'] });
+testCases.push({ label: 'Face Cream + Hand Cream + Neck Cream',   skus: ['751889384926', '00860014497216', '860005339778'] });
+testCases.push({ label: 'Shaving Gel + Gravité + Deodorant',      skus: ['00860012469772', '860005339785', '860012469710'] });
+testCases.push({ label: 'Body Wash + Shampoo + Hair Revival Kit', skus: ['636665869678', '636665869661', '860005339730'] });
+// Mixed qty combos
+testCases.push({ label: '2x Beard Oil + 2x Lip Balm',        skus: [{ sku: '860005339723', qty: 2 }, { sku: '00860012469789', qty: 2 }] });
+testCases.push({ label: '2x Hand Cream + Face Cream',         skus: [{ sku: '00860014497216', qty: 2 }, '751889384926'] });
+testCases.push({ label: '3x Eye Cream',                       skus: [{ sku: '00860012469796', qty: 3 }] });
+testCases.push({ label: '4x Hair Vitamin Gummies',            skus: [{ sku: '860005339761', qty: 4 }] });
+testCases.push({ label: 'Starter Bundle + extra Face Cream',  skus: ['9162025', '751889384926'] });
 
 // ── Run tests ─────────────────────────────────────────────────────────────────
 let passed = 0, failed = 0;

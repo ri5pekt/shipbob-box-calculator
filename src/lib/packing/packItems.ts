@@ -21,9 +21,9 @@ function paddedBox(box: Box) {
   const { length, width, height } = box.dimensions;
   return {
     name: box.id,
-    width: length - PADDING,
-    height: height - PADDING,
-    depth: width - PADDING,
+    width: length + PADDING,
+    height: height + PADDING,
+    depth: width + PADDING,
     maxWeight: 99999,
   };
 }
